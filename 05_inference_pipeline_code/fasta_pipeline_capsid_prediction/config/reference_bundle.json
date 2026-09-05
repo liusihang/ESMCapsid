@@ -1,0 +1,72 @@
+{
+  "pipeline": {
+    "max_sequences_per_chunk": 2000,
+    "max_total_aa_per_chunk": 800000,
+    "dummy_label": "__inference__"
+  },
+  "runtime": {
+    "python_executable": "python3"
+  },
+  "reference": {
+    "semantic_motif_ref_npz": "/path/to/reference/semantic_motif/sae_feats_sampled_109220seqs_csr.npz",
+    "semantic_motif_labels": "/path/to/reference/semantic_motif/leiden_clusters.npy",
+    "semantic_motif_index": "/path/to/reference/semantic_motif/ivfpq_trained.index",
+    "sequence_knn_ref_npz": "/path/to/reference/sequence_knn/filtered_mean_seq_feats.npz",
+    "sequence_knn_ref_labels_csv": "/path/to/reference/sequence_knn/filtered_mean_clusters.csv",
+    "sequence_knn_label_col": "Cluster"
+  },
+  "backends": {
+    "embed": {
+      "python_executable": "/path/to/hpc_home/miniconda3/envs/esm/bin/python",
+      "script_path": "../backends/extract_plm_tokens.py",
+      "model": "/path/to/models/ESMCapsid-C_model",
+      "layers": "28",
+      "max_len": 786,
+      "batch_size": 32,
+      "bucket_sort": false,
+      "offline": false,
+      "trust_remote_code": true,
+      "device": "cuda"
+    },
+    "sae": {
+      "python_executable": "/path/to/hpc_home/miniconda3/envs/esm/bin/python",
+      "script_path": "../backends/infer_sae_tokens.py",
+      "token_file_name": "layer_28.tokens.npy",
+      "dims": 4604,
+      "ks": 64,
+      "input_hidden_dim": 1152,
+      "infer_chunk_size": 4096,
+      "use_amp": true,
+      "use_torch_compile": false,
+      "do_mean_center": true,
+      "do_rescale": true,
+      "clip_extreme_values": true,
+      "pretrained_model_path": "/path/to/models/sae_D4604_K64/sae_model.pt",
+      "global_stats_path": "/path/to/models/sae_D4604_K64/global_stats.npz"
+    },
+    "map_semantic_motif": {
+      "python_executable": "/path/to/hpc_home/miniconda3/envs/faiss/bin/python",
+      "script_path": "../backends/map_semantic_motifs.py",
+      "k": 20,
+      "nprobe": 64,
+      "gpu_id": 0,
+      "use_float16": true,
+      "add_batch_size": 200000,
+      "query_batch_size": 50000
+    },
+    "pool_seq": {
+      "python_executable": "/path/to/hpc_home/miniconda3/envs/faiss/bin/python",
+      "script_path": "../backends/pool_sequence_features.py"
+    },
+    "predict_seq": {
+      "python_executable": "/path/to/hpc_home/miniconda3/envs/faiss/bin/python",
+      "script_path": "../backends/predict_sequence_knn.py",
+      "query_id_col": "prot_id",
+      "k": 20,
+      "backend": "auto",
+      "query_batch": 5000,
+      "cpu_threads": 7,
+      "include_noise_in_vote": true
+    }
+  }
+}

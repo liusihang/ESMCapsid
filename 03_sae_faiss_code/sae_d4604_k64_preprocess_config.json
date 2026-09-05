@@ -1,0 +1,56 @@
+{
+  "input_tokens_path": "/path/to/vicapsid_data/Embedding/MLMfinetunedAllCapsidTokenNPY/token_layers/layer_28.tokens.npy",
+  "input_meta_path": "/path/to/vicapsid_data/Embedding/MLMfinetunedAllCapsidTokenNPY/sample_metadata_filtered.csv",
+  "output_dir": "/path/to/vicapsid_data/SAE/PreprocessedData",
+  "d_in": 1152,
+  "n_tokens_total": 39001072,
+  "n_epochs": 15,
+  "steps_per_epoch": 390,
+  "batch_size": 30240,
+  "samples_per_epoch": 4000000,
+  "l2_normalized": true,
+  "save_dtype": "float16",
+  "target_keywords": [
+    "IMGVR",
+    "MGY"
+  ],
+  "balance_ratio": 3.5,
+  "random_seed": 42,
+  "epoch_files": [
+    "/path/to/vicapsid_data/SAE/PreprocessedData/sampled_tokens_ep00.npy",
+    "/path/to/vicapsid_data/SAE/PreprocessedData/sampled_tokens_ep01.npy",
+    "/path/to/vicapsid_data/SAE/PreprocessedData/sampled_tokens_ep02.npy",
+    "/path/to/vicapsid_data/SAE/PreprocessedData/sampled_tokens_ep03.npy",
+    "/path/to/vicapsid_data/SAE/PreprocessedData/sampled_tokens_ep04.npy",
+    "/path/to/vicapsid_data/SAE/PreprocessedData/sampled_tokens_ep05.npy",
+    "/path/to/vicapsid_data/SAE/PreprocessedData/sampled_tokens_ep06.npy",
+    "/path/to/vicapsid_data/SAE/PreprocessedData/sampled_tokens_ep07.npy",
+    "/path/to/vicapsid_data/SAE/PreprocessedData/sampled_tokens_ep08.npy",
+    "/path/to/vicapsid_data/SAE/PreprocessedData/sampled_tokens_ep09.npy",
+    "/path/to/vicapsid_data/SAE/PreprocessedData/sampled_tokens_ep10.npy",
+    "/path/to/vicapsid_data/SAE/PreprocessedData/sampled_tokens_ep11.npy",
+    "/path/to/vicapsid_data/SAE/PreprocessedData/sampled_tokens_ep12.npy",
+    "/path/to/vicapsid_data/SAE/PreprocessedData/sampled_tokens_ep13.npy",
+    "/path/to/vicapsid_data/SAE/PreprocessedData/sampled_tokens_ep14.npy"
+  ],
+  "global_mean_path": "/path/to/vicapsid_data/SAE/PreprocessedData/global_mean.npy",
+  "init_samples_path": "/path/to/vicapsid_data/SAE/PreprocessedData/init_samples.npy",
+  "sampler_stats": {
+    "n_target": 96585,
+    "n_others": 12635,
+    "n_valid": 109220,
+    "target_ratio": 0.8843160593297931
+  },
+  "validation_stats": {
+    "mean": 0.000644683837890625,
+    "std": 0.030731201171875,
+    "min": -0.82958984375,
+    "max": 0.2724609375,
+    "nan_count": 0,
+    "inf_count": 0,
+    "zero_rows": 0
+  },
+  "created_at": "2026-01-20T14:20:27.589139",
+  "sort_before_read": true,
+  "preprocessing_version": "v2"
+}

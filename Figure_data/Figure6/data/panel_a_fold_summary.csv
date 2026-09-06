@@ -1,0 +1,10 @@
+manuscript_group,representative_count,expanded_member_count,expanded_hmm_hit_count,expanded_hmm_hit_rate,redundancy_fold,filtered_main_status
+HK97-like,160145,2324864,1363713,0.58657754,14.517244,included_main
+NCLDV-like,14727,163695,105819,0.64644003,11.115298,included_main
+BTV-like,10319,46927,1460,0.031112153,4.5476306,included_main
+micro-like,6111,43571,27553,0.63237015,7.1299296,included_main
+picorna-like,8816,38637,23555,0.60964878,4.3825998,included_main
+levi-like,1545,12538,5368,0.42813846,8.1152104,included_main
+ino-like,1154,9164,5276,0.57573112,7.9410745,included_main
+Geminiviridae-like,1668,4696,1292,0.27512777,2.8153477,included_main
+Circoviridae-like,1650,3541,200,0.05648122,2.1460606,included_main

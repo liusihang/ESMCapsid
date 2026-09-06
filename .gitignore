@@ -1,6 +1,7 @@
+.DS_Store
 __pycache__/
 *.py[cod]
 .pytest_cache/
-.DS_Store
-*.log
-runs/
+
+Figure_data/Figure5/data/source_data/Seqs2Coordinates.csv
+Figure_data/Figure5/data/source_data/Seqs2Ecosystem.csv

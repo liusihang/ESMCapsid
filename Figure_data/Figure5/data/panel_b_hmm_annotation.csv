@@ -1,0 +1,34 @@
+main_ecosystem,sub_ecosystem,hmm_hit_count,total_sequence_count,hmm_hit_rate
+Engineered Systems,Bioreactors,23252,38338,0.60650008
+Engineered Systems,Wastewater Treatment,14402,25180,0.57196187
+Engineered Systems,Built Environment,4792,7130,0.67208976
+Engineered Systems,Controlled Environment,2433,3518,0.69158613
+Engineered Systems,Solid Waste Management,1042,1685,0.61839763
+Engineered Systems,Food Production,802,1424,0.56320225
+Engineered Systems,Industrial Processing,570,838,0.68019093
+Extreme Environments,Psychrophilic Low Temperature,75177,147149,0.51089032
+Extreme Environments,Thermophilic High Temperature,49164,87991,0.55873896
+Extreme Environments,Subsurface And Geologic,34732,73987,0.46943382
+Extreme Environments,Halophilic And Alkaliphilic,261,366,0.71311475
+General Environmental,Aquatic Marine,403373,648272,0.62222802
+General Environmental,Aquatic Freshwater,317764,523051,0.60752011
+General Environmental,Terrestrial Soil,3542,7445,0.47575554
+General Environmental,Aquatic Special,3455,6334,0.54546890
+General Environmental,Terrestrial Vegetation,248,372,0.66666667
+General Environmental,Atmospheric,137,174,0.78735632
+Host Associated,Plants,164734,382937,0.43018564
+Host Associated,Human,131655,259916,0.50652903
+Host Associated,Animals,14195,19369,0.73287212
+Host Associated,Fungi And Algae,1895,3617,0.52391485
+Host Associated,Microbial Hosts,224,357,0.62745098
+Mixed And Lab,Unknown Mixed,1172,1708,0.68618267
+Mixed And Lab,Modeled,619,928,0.66702586
+Mixed And Lab,Lab Enrichment,441,721,0.61165049
+Contaminated and Industrial Environments,Chemical Remediation Targets,6234,14551,0.42842416
+Contaminated and Industrial Environments,Industrial Wastewater,7023,11628,0.60397317
+Contaminated and Industrial Environments,Landfill,5210,10628,0.49021453
+Contaminated and Industrial Environments,Hydrocarbon Contamination Oil,434,1028,0.42217899
+Contaminated and Industrial Environments,Tailings Pond,408,611,0.66775777
+Contaminated and Industrial Environments,Industrial Hydrocarbon Processing,237,399,0.59398496
+Contaminated and Industrial Environments,Cleanrooms,58,140,0.41428571
+Unclassified,Unclassified,272342,419898,0.64859085

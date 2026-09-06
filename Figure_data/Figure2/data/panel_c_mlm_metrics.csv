@@ -1,0 +1,46 @@
+model,model_display,model_group,sequence_group,group_key,metric,mean,std,n_repeats,n_sequences_mean,source_labels
+ESMplusplus_large,ESMplusplus_large,baseline,Capsid,capsid,Accuracy,0.24749373544328077,0.0011816231827723308,3,2500.0,Capsid
+ESMplusplus_large,ESMplusplus_large,baseline,Capsid,capsid,Perplexity,11.353023374408542,0.02380140135685719,3,2500.0,Capsid
+ESMplusplus_large,ESMplusplus_large,baseline,Capsid,capsid,Avg loss,2.4294826194755057,0.0020970198587354502,3,2500.0,Capsid
+ESMplusplus_large,ESMplusplus_large,baseline,Non-capsid virus,non_capsid_virus,Accuracy,0.21620545023014962,0.0016112179059957494,3,2139.6666666666665,NoCapsidVirus
+ESMplusplus_large,ESMplusplus_large,baseline,Non-capsid virus,non_capsid_virus,Perplexity,12.466675071720836,0.0733542384519857,3,2139.6666666666665,NoCapsidVirus
+ESMplusplus_large,ESMplusplus_large,baseline,Non-capsid virus,non_capsid_virus,Avg loss,2.523047559235555,0.005880251203174107,3,2139.6666666666665,NoCapsidVirus
+ESMplusplus_large,ESMplusplus_large,baseline,Others / Cellular proteins,others_cellular,Accuracy,0.4207313000513804,0.010787553891607385,3,2860.3333333333335,Cellular;Other;Structure
+ESMplusplus_large,ESMplusplus_large,baseline,Others / Cellular proteins,others_cellular,Perplexity,6.708192603827459,0.2381782088151275,3,2860.3333333333335,Cellular;Other;Structure
+ESMplusplus_large,ESMplusplus_large,baseline,Others / Cellular proteins,others_cellular,Avg loss,1.9029135513943072,0.03523768446255034,3,2860.3333333333335,Cellular;Other;Structure
+FastESM2_650M,FastESM2_650M,baseline,Capsid,capsid,Accuracy,0.06200935972579543,0.014164196195567653,3,2500.0,Capsid
+FastESM2_650M,FastESM2_650M,baseline,Capsid,capsid,Perplexity,22.054561887059606,0.37500337645352305,3,2500.0,Capsid
+FastESM2_650M,FastESM2_650M,baseline,Capsid,capsid,Avg loss,3.0934234391640043,0.016958031096196976,3,2500.0,Capsid
+FastESM2_650M,FastESM2_650M,baseline,Non-capsid virus,non_capsid_virus,Accuracy,0.05986040504251918,0.02161454720077085,3,2139.6666666666665,NoCapsidVirus
+FastESM2_650M,FastESM2_650M,baseline,Non-capsid virus,non_capsid_virus,Perplexity,22.18255526471388,0.6736317232926397,3,2139.6666666666665,NoCapsidVirus
+FastESM2_650M,FastESM2_650M,baseline,Non-capsid virus,non_capsid_virus,Avg loss,3.0990022378426585,0.030110556623409647,3,2139.6666666666665,NoCapsidVirus
+FastESM2_650M,FastESM2_650M,baseline,Others / Cellular proteins,others_cellular,Accuracy,0.0650286712076975,0.01769199866282998,3,2860.3333333333335,Cellular;Other;Structure
+FastESM2_650M,FastESM2_650M,baseline,Others / Cellular proteins,others_cellular,Perplexity,22.02423546132898,0.5317043295733078,3,2860.3333333333335,Cellular;Other;Structure
+FastESM2_650M,FastESM2_650M,baseline,Others / Cellular proteins,others_cellular,Avg loss,3.0919502081510366,0.024046103480124672,3,2860.3333333333335,Cellular;Other;Structure
+Profluent-E1-600M,Profluent-E1-600M,baseline,Capsid,capsid,Accuracy,0.3522508699500517,0.0011871574609852856,3,2500.0,Capsid
+Profluent-E1-600M,Profluent-E1-600M,baseline,Capsid,capsid,Perplexity,9.190278893449447,0.03185523324589529,3,2500.0,Capsid
+Profluent-E1-600M,Profluent-E1-600M,baseline,Capsid,capsid,Avg loss,2.2181422837372153,0.0034628381921127786,3,2500.0,Capsid
+Profluent-E1-600M,Profluent-E1-600M,baseline,Non-capsid virus,non_capsid_virus,Accuracy,0.3754836265970132,0.0006929728416658887,3,2139.6666666666665,NoCapsidVirus
+Profluent-E1-600M,Profluent-E1-600M,baseline,Non-capsid virus,non_capsid_virus,Perplexity,8.076411476408689,0.023979792494159477,3,2139.6666666666665,NoCapsidVirus
+Profluent-E1-600M,Profluent-E1-600M,baseline,Non-capsid virus,non_capsid_virus,Avg loss,2.088944712022681,0.00296843540909258,3,2139.6666666666665,NoCapsidVirus
+Profluent-E1-600M,Profluent-E1-600M,baseline,Others / Cellular proteins,others_cellular,Accuracy,0.5214809379391658,0.00597827765265331,3,2860.3333333333335,Cellular;Other;Structure
+Profluent-E1-600M,Profluent-E1-600M,baseline,Others / Cellular proteins,others_cellular,Perplexity,5.079740003879345,0.10497066266628795,3,2860.3333333333335,Cellular;Other;Structure
+Profluent-E1-600M,Profluent-E1-600M,baseline,Others / Cellular proteins,others_cellular,Avg loss,1.625118839396203,0.02054433732495792,3,2860.3333333333335,Cellular;Other;Structure
+esm3o,esm3o,baseline,Capsid,capsid,Accuracy,0.21277740167090994,0.0014933972338409328,3,2500.0,Capsid
+esm3o,esm3o,baseline,Capsid,capsid,Perplexity,14.601046329210655,0.031230062478039916,3,2500.0,Capsid
+esm3o,esm3o,baseline,Capsid,capsid,Avg loss,2.681091666666667,0.0021398500726295833,3,2500.0,Capsid
+esm3o,esm3o,baseline,Non-capsid virus,non_capsid_virus,Accuracy,0.2517379369185451,0.0015091640466509903,3,2139.6666666666665,NoCapsidVirus
+esm3o,esm3o,baseline,Non-capsid virus,non_capsid_virus,Perplexity,11.91570899466403,0.016837009225739396,3,2139.6666666666665,NoCapsidVirus
+esm3o,esm3o,baseline,Non-capsid virus,non_capsid_virus,Avg loss,2.477856947701546,0.0014128899557645039,3,2139.6666666666665,NoCapsidVirus
+esm3o,esm3o,baseline,Others / Cellular proteins,others_cellular,Accuracy,0.33275314512426424,0.0011072098469631596,3,2860.3333333333335,Cellular;Other;Structure
+esm3o,esm3o,baseline,Others / Cellular proteins,others_cellular,Perplexity,8.990724793543746,0.008751676136461767,3,2860.3333333333335,Cellular;Other;Structure
+esm3o,esm3o,baseline,Others / Cellular proteins,others_cellular,Avg loss,2.1961931516900903,0.0009731722072191522,3,2860.3333333333335,Cellular;Other;Structure
+esmc_600m_MLMfinetuned_shuffle,ESMCapsid-C,tuned,Capsid,capsid,Accuracy,0.6322641508172001,0.002551330638115309,3,2500.0,Capsid
+esmc_600m_MLMfinetuned_shuffle,ESMCapsid-C,tuned,Capsid,capsid,Perplexity,3.278470098100502,0.019325321720624795,3,2500.0,Capsid
+esmc_600m_MLMfinetuned_shuffle,ESMCapsid-C,tuned,Capsid,capsid,Avg loss,1.1873653196552183,0.005886310034447691,3,2500.0,Capsid
+esmc_600m_MLMfinetuned_shuffle,ESMCapsid-C,tuned,Non-capsid virus,non_capsid_virus,Accuracy,0.3020531937437226,0.001516388267170601,3,2139.6666666666665,NoCapsidVirus
+esmc_600m_MLMfinetuned_shuffle,ESMCapsid-C,tuned,Non-capsid virus,non_capsid_virus,Perplexity,10.248570606189988,0.03648429924515642,3,2139.6666666666665,NoCapsidVirus
+esmc_600m_MLMfinetuned_shuffle,ESMCapsid-C,tuned,Non-capsid virus,non_capsid_virus,Avg loss,2.3271340150549027,0.0035620625271452454,3,2139.6666666666665,NoCapsidVirus
+esmc_600m_MLMfinetuned_shuffle,ESMCapsid-C,tuned,Others / Cellular proteins,others_cellular,Accuracy,0.3384509968877727,0.001099012069913235,3,2860.3333333333335,Cellular;Other;Structure
+esmc_600m_MLMfinetuned_shuffle,ESMCapsid-C,tuned,Others / Cellular proteins,others_cellular,Perplexity,9.057575975606854,0.0330334601817598,3,2860.3333333333335,Cellular;Other;Structure
+esmc_600m_MLMfinetuned_shuffle,ESMCapsid-C,tuned,Others / Cellular proteins,others_cellular,Avg loss,2.2035971032675175,0.003643943747781681,3,2860.3333333333335,Cellular;Other;Structure

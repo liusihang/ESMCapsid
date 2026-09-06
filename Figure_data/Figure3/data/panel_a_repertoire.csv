@@ -1,0 +1,9 @@
+metric,category,value,unit,plot_element,notes
+capsid_sequence_repertoire,NCBI Virus,55089,protein sequences,bar,Reference database comparison
+capsid_sequence_repertoire,UniProt,74780,protein sequences,bar,Reference database comparison
+capsid_sequence_repertoire,This study,2701690,protein sequences,bar,Predicted putative capsid repertoire
+hmm_recovery,HMM-recovered,38.12,percent of predicted capsid AAI50 clusters,donut,Profile-HMM recovered subset
+hmm_recovery,HMM-missed,61.88,percent of predicted capsid AAI50 clusters,donut,Not recovered by profile-HMM search
+predicted_capsid_aai50_clusters,Total,216296,AAI50 clusters,donut_label,Total predicted capsid AAI50 clusters
+fold_expansion,This study vs UniProt,36.13,fold,bar_annotation,2701690 divided by 74780
+fold_expansion,This study vs NCBI Virus,49.04,fold,bar_annotation,2701690 divided by 55089

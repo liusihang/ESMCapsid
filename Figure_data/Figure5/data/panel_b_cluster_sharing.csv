@@ -1,0 +1,190 @@
+main_ecosystem,sub_ecosystem,sharing_degree,sequence_count,cluster_count,sub_ecosystem_total_sequence_count
+General Environmental,Aquatic Marine,6,63102,279,648272
+General Environmental,Aquatic Marine,5,130623,738,648272
+General Environmental,Aquatic Marine,4,70664,1334,648272
+General Environmental,Aquatic Marine,3,122307,2648,648272
+General Environmental,Aquatic Marine,2,102524,7343,648272
+General Environmental,Aquatic Marine,1,159052,29662,648272
+General Environmental,Aquatic Freshwater,6,57730,299,523051
+General Environmental,Aquatic Freshwater,5,108929,881,523051
+General Environmental,Aquatic Freshwater,4,66108,1821,523051
+General Environmental,Aquatic Freshwater,3,71750,3671,523051
+General Environmental,Aquatic Freshwater,2,107598,8643,523051
+General Environmental,Aquatic Freshwater,1,110936,26908,523051
+General Environmental,Terrestrial Soil,6,840,128,7445
+General Environmental,Terrestrial Soil,5,1404,269,7445
+General Environmental,Terrestrial Soil,4,991,348,7445
+General Environmental,Terrestrial Soil,3,1608,525,7445
+General Environmental,Terrestrial Soil,2,1046,553,7445
+General Environmental,Terrestrial Soil,1,1556,892,7445
+General Environmental,Aquatic Special,6,474,104,6334
+General Environmental,Aquatic Special,5,683,214,6334
+General Environmental,Aquatic Special,4,742,300,6334
+General Environmental,Aquatic Special,3,1096,488,6334
+General Environmental,Aquatic Special,2,1499,747,6334
+General Environmental,Aquatic Special,1,1840,1184,6334
+General Environmental,Terrestrial Vegetation,6,99,52,372
+General Environmental,Terrestrial Vegetation,5,80,47,372
+General Environmental,Terrestrial Vegetation,4,75,46,372
+General Environmental,Terrestrial Vegetation,3,48,35,372
+General Environmental,Terrestrial Vegetation,2,33,23,372
+General Environmental,Terrestrial Vegetation,1,37,28,372
+General Environmental,Atmospheric,6,37,8,174
+General Environmental,Atmospheric,5,56,6,174
+General Environmental,Atmospheric,4,21,5,174
+General Environmental,Atmospheric,3,26,5,174
+General Environmental,Atmospheric,2,29,2,174
+General Environmental,Atmospheric,1,5,5,174
+Host Associated,Plants,6,8576,279,382937
+Host Associated,Plants,5,9350,766,382937
+Host Associated,Plants,4,9417,1247,382937
+Host Associated,Plants,3,100023,4401,382937
+Host Associated,Plants,2,75707,12378,382937
+Host Associated,Plants,1,179864,45968,382937
+Host Associated,Human,6,5992,180,259916
+Host Associated,Human,5,14601,329,259916
+Host Associated,Human,4,18371,463,259916
+Host Associated,Human,3,24174,1126,259916
+Host Associated,Human,2,44354,2287,259916
+Host Associated,Human,1,152424,24380,259916
+Host Associated,Animals,6,4034,109,19369
+Host Associated,Animals,5,1812,135,19369
+Host Associated,Animals,4,3366,173,19369
+Host Associated,Animals,3,2958,199,19369
+Host Associated,Animals,2,2252,326,19369
+Host Associated,Animals,1,4947,1182,19369
+Host Associated,Fungi And Algae,6,462,106,3617
+Host Associated,Fungi And Algae,5,551,194,3617
+Host Associated,Fungi And Algae,4,441,218,3617
+Host Associated,Fungi And Algae,3,615,344,3617
+Host Associated,Fungi And Algae,2,532,357,3617
+Host Associated,Fungi And Algae,1,1016,695,3617
+Host Associated,Microbial Hosts,6,115,59,357
+Host Associated,Microbial Hosts,5,53,45,357
+Host Associated,Microbial Hosts,4,51,46,357
+Host Associated,Microbial Hosts,3,42,35,357
+Host Associated,Microbial Hosts,2,35,33,357
+Host Associated,Microbial Hosts,1,61,58,357
+Extreme Environments,Psychrophilic Low Temperature,6,11647,297,147149
+Extreme Environments,Psychrophilic Low Temperature,5,15563,848,147149
+Extreme Environments,Psychrophilic Low Temperature,4,16606,1629,147149
+Extreme Environments,Psychrophilic Low Temperature,3,28376,3519,147149
+Extreme Environments,Psychrophilic Low Temperature,2,31534,7559,147149
+Extreme Environments,Psychrophilic Low Temperature,1,43423,16300,147149
+Extreme Environments,Thermophilic High Temperature,6,8378,218,87991
+Extreme Environments,Thermophilic High Temperature,5,8846,514,87991
+Extreme Environments,Thermophilic High Temperature,4,7223,877,87991
+Extreme Environments,Thermophilic High Temperature,3,18550,3234,87991
+Extreme Environments,Thermophilic High Temperature,2,25991,8635,87991
+Extreme Environments,Thermophilic High Temperature,1,19003,8629,87991
+Extreme Environments,Subsurface And Geologic,6,5169,268,73987
+Extreme Environments,Subsurface And Geologic,5,5692,673,73987
+Extreme Environments,Subsurface And Geologic,4,5612,1105,73987
+Extreme Environments,Subsurface And Geologic,3,14685,3008,73987
+Extreme Environments,Subsurface And Geologic,2,23252,6425,73987
+Extreme Environments,Subsurface And Geologic,1,19577,8041,73987
+Extreme Environments,Halophilic And Alkaliphilic,6,80,17,366
+Extreme Environments,Halophilic And Alkaliphilic,5,89,32,366
+Extreme Environments,Halophilic And Alkaliphilic,4,64,27,366
+Extreme Environments,Halophilic And Alkaliphilic,3,55,21,366
+Extreme Environments,Halophilic And Alkaliphilic,2,45,19,366
+Extreme Environments,Halophilic And Alkaliphilic,1,33,15,366
+Engineered Systems,Bioreactors,6,5341,233,38338
+Engineered Systems,Bioreactors,5,4805,581,38338
+Engineered Systems,Bioreactors,4,5986,983,38338
+Engineered Systems,Bioreactors,3,6178,1237,38338
+Engineered Systems,Bioreactors,2,7577,1940,38338
+Engineered Systems,Bioreactors,1,8451,2576,38338
+Engineered Systems,Wastewater Treatment,6,2706,245,25180
+Engineered Systems,Wastewater Treatment,5,4261,676,25180
+Engineered Systems,Wastewater Treatment,4,3766,1151,25180
+Engineered Systems,Wastewater Treatment,3,3669,1465,25180
+Engineered Systems,Wastewater Treatment,2,5372,2274,25180
+Engineered Systems,Wastewater Treatment,1,5406,2809,25180
+Engineered Systems,Built Environment,6,1657,134,7130
+Engineered Systems,Built Environment,5,1655,225,7130
+Engineered Systems,Built Environment,4,1505,291,7130
+Engineered Systems,Built Environment,3,1003,309,7130
+Engineered Systems,Built Environment,2,725,349,7130
+Engineered Systems,Built Environment,1,585,392,7130
+Engineered Systems,Controlled Environment,6,420,82,3518
+Engineered Systems,Controlled Environment,5,834,177,3518
+Engineered Systems,Controlled Environment,4,835,247,3518
+Engineered Systems,Controlled Environment,3,539,184,3518
+Engineered Systems,Controlled Environment,2,694,236,3518
+Engineered Systems,Controlled Environment,1,196,134,3518
+Engineered Systems,Solid Waste Management,6,260,85,1685
+Engineered Systems,Solid Waste Management,5,229,93,1685
+Engineered Systems,Solid Waste Management,4,251,104,1685
+Engineered Systems,Solid Waste Management,3,249,93,1685
+Engineered Systems,Solid Waste Management,2,307,119,1685
+Engineered Systems,Solid Waste Management,1,389,175,1685
+Engineered Systems,Food Production,6,176,28,1424
+Engineered Systems,Food Production,5,125,53,1424
+Engineered Systems,Food Production,4,291,87,1424
+Engineered Systems,Food Production,3,238,88,1424
+Engineered Systems,Food Production,2,255,106,1424
+Engineered Systems,Food Production,1,339,142,1424
+Engineered Systems,Industrial Processing,6,149,50,838
+Engineered Systems,Industrial Processing,5,183,56,838
+Engineered Systems,Industrial Processing,4,178,63,838
+Engineered Systems,Industrial Processing,3,179,71,838
+Engineered Systems,Industrial Processing,2,98,42,838
+Engineered Systems,Industrial Processing,1,51,28,838
+Contaminated and Industrial Environments,Chemical Remediation Targets,6,530,77,14551
+Contaminated and Industrial Environments,Chemical Remediation Targets,5,370,79,14551
+Contaminated and Industrial Environments,Chemical Remediation Targets,4,212,37,14551
+Contaminated and Industrial Environments,Chemical Remediation Targets,3,5921,1805,14551
+Contaminated and Industrial Environments,Chemical Remediation Targets,2,5145,2521,14551
+Contaminated and Industrial Environments,Chemical Remediation Targets,1,2373,1331,14551
+Contaminated and Industrial Environments,Industrial Wastewater,6,2384,246,11628
+Contaminated and Industrial Environments,Industrial Wastewater,5,2071,573,11628
+Contaminated and Industrial Environments,Industrial Wastewater,4,1781,592,11628
+Contaminated and Industrial Environments,Industrial Wastewater,3,1959,905,11628
+Contaminated and Industrial Environments,Industrial Wastewater,2,1904,913,11628
+Contaminated and Industrial Environments,Industrial Wastewater,1,1529,741,11628
+Contaminated and Industrial Environments,Landfill,6,584,158,10628
+Contaminated and Industrial Environments,Landfill,5,1204,434,10628
+Contaminated and Industrial Environments,Landfill,4,1721,617,10628
+Contaminated and Industrial Environments,Landfill,3,2349,1244,10628
+Contaminated and Industrial Environments,Landfill,2,2265,1404,10628
+Contaminated and Industrial Environments,Landfill,1,2505,1749,10628
+Contaminated and Industrial Environments,Hydrocarbon Contamination Oil,3,523,297,1028
+Contaminated and Industrial Environments,Hydrocarbon Contamination Oil,2,367,303,1028
+Contaminated and Industrial Environments,Hydrocarbon Contamination Oil,1,138,117,1028
+Contaminated and Industrial Environments,Tailings Pond,6,146,63,611
+Contaminated and Industrial Environments,Tailings Pond,5,160,86,611
+Contaminated and Industrial Environments,Tailings Pond,4,102,64,611
+Contaminated and Industrial Environments,Tailings Pond,3,85,58,611
+Contaminated and Industrial Environments,Tailings Pond,2,70,52,611
+Contaminated and Industrial Environments,Tailings Pond,1,48,32,611
+Contaminated and Industrial Environments,Industrial Hydrocarbon Processing,6,86,36,399
+Contaminated and Industrial Environments,Industrial Hydrocarbon Processing,5,70,43,399
+Contaminated and Industrial Environments,Industrial Hydrocarbon Processing,4,73,41,399
+Contaminated and Industrial Environments,Industrial Hydrocarbon Processing,3,53,40,399
+Contaminated and Industrial Environments,Industrial Hydrocarbon Processing,2,63,41,399
+Contaminated and Industrial Environments,Industrial Hydrocarbon Processing,1,54,39,399
+Contaminated and Industrial Environments,Cleanrooms,6,16,14,140
+Contaminated and Industrial Environments,Cleanrooms,5,26,22,140
+Contaminated and Industrial Environments,Cleanrooms,4,13,13,140
+Contaminated and Industrial Environments,Cleanrooms,3,23,15,140
+Contaminated and Industrial Environments,Cleanrooms,2,31,17,140
+Contaminated and Industrial Environments,Cleanrooms,1,31,23,140
+Mixed And Lab,Unknown Mixed,6,667,197,1708
+Mixed And Lab,Unknown Mixed,5,296,156,1708
+Mixed And Lab,Unknown Mixed,4,224,135,1708
+Mixed And Lab,Unknown Mixed,3,157,104,1708
+Mixed And Lab,Unknown Mixed,2,163,123,1708
+Mixed And Lab,Unknown Mixed,1,201,174,1708
+Mixed And Lab,Modeled,6,333,62,928
+Mixed And Lab,Modeled,5,145,39,928
+Mixed And Lab,Modeled,4,75,31,928
+Mixed And Lab,Modeled,3,105,30,928
+Mixed And Lab,Modeled,2,90,33,928
+Mixed And Lab,Modeled,1,180,59,928
+Mixed And Lab,Lab Enrichment,6,255,126,721
+Mixed And Lab,Lab Enrichment,5,151,85,721
+Mixed And Lab,Lab Enrichment,4,103,62,721
+Mixed And Lab,Lab Enrichment,3,68,46,721
+Mixed And Lab,Lab Enrichment,2,75,53,721
+Mixed And Lab,Lab Enrichment,1,69,47,721

@@ -1,0 +1,127 @@
+panel_row,source_type,annotation_level,annotation_name,sub_ecosystem,count,display_count,enrichment_or_composition,metric_name,low_n_flag,note
+ino-like fold,fold_counts,manuscript_group,ino-like,Psychrophilic Low Temperature,246,246,3.369863,redundancy_fold_expanded_over_representative,no,representative_count=73
+ino-like fold,fold_counts,manuscript_group,ino-like,Thermophilic High Temperature,49,49,3.0625,redundancy_fold_expanded_over_representative,yes,representative_count=16
+ino-like fold,fold_counts,manuscript_group,ino-like,Cleanrooms,10,10,3.3333333,redundancy_fold_expanded_over_representative,yes,representative_count=3
+ino-like fold,fold_counts,manuscript_group,ino-like,Aquatic Freshwater,779,779,5.2635135,redundancy_fold_expanded_over_representative,no,representative_count=148
+ino-like fold,fold_counts,manuscript_group,ino-like,Aquatic Marine,652,652,4.6906475,redundancy_fold_expanded_over_representative,no,representative_count=139
+ino-like fold,fold_counts,manuscript_group,ino-like,Plants,350,350,3.4313725,redundancy_fold_expanded_over_representative,no,representative_count=102
+ino-like fold,fold_counts,manuscript_group,ino-like,Human,1212,1212,8.7194245,redundancy_fold_expanded_over_representative,no,representative_count=139
+ino-like fold,fold_counts,manuscript_group,ino-like,Bioreactors,114,114,4.9565217,redundancy_fold_expanded_over_representative,yes,representative_count=23
+ino-like fold,fold_counts,manuscript_group,ino-like,Wastewater Treatment,60,60,4.2857143,redundancy_fold_expanded_over_representative,yes,representative_count=14
+levi-like fold,fold_counts,manuscript_group,levi-like,Psychrophilic Low Temperature,8130,8130,12.683307,redundancy_fold_expanded_over_representative,no,representative_count=641
+levi-like fold,fold_counts,manuscript_group,levi-like,Thermophilic High Temperature,39,39,2.1666667,redundancy_fold_expanded_over_representative,yes,representative_count=18
+levi-like fold,fold_counts,manuscript_group,levi-like,Cleanrooms,0,0,0,redundancy_fold_expanded_over_representative,yes,representative_count=0
+levi-like fold,fold_counts,manuscript_group,levi-like,Aquatic Freshwater,771,771,5.5869565,redundancy_fold_expanded_over_representative,no,representative_count=138
+levi-like fold,fold_counts,manuscript_group,levi-like,Aquatic Marine,853,853,4.4894737,redundancy_fold_expanded_over_representative,no,representative_count=190
+levi-like fold,fold_counts,manuscript_group,levi-like,Plants,1209,1209,3.5145349,redundancy_fold_expanded_over_representative,no,representative_count=344
+levi-like fold,fold_counts,manuscript_group,levi-like,Human,4,4,1.3333333,redundancy_fold_expanded_over_representative,yes,representative_count=3
+levi-like fold,fold_counts,manuscript_group,levi-like,Bioreactors,784,784,6.7586207,redundancy_fold_expanded_over_representative,no,representative_count=116
+levi-like fold,fold_counts,manuscript_group,levi-like,Wastewater Treatment,94,94,4.9473684,redundancy_fold_expanded_over_representative,yes,representative_count=19
+Circoviridae-like fold,fold_counts,manuscript_group,Circoviridae-like,Psychrophilic Low Temperature,158,158,2.8727273,redundancy_fold_expanded_over_representative,no,representative_count=55
+Circoviridae-like fold,fold_counts,manuscript_group,Circoviridae-like,Thermophilic High Temperature,73,73,1.4313725,redundancy_fold_expanded_over_representative,no,representative_count=51
+Circoviridae-like fold,fold_counts,manuscript_group,Circoviridae-like,Cleanrooms,1,1,0,redundancy_fold_expanded_over_representative,yes,representative_count=0
+Circoviridae-like fold,fold_counts,manuscript_group,Circoviridae-like,Aquatic Freshwater,1494,1494,2.658363,redundancy_fold_expanded_over_representative,no,representative_count=562
+Circoviridae-like fold,fold_counts,manuscript_group,Circoviridae-like,Aquatic Marine,637,637,2.8823529,redundancy_fold_expanded_over_representative,no,representative_count=221
+Circoviridae-like fold,fold_counts,manuscript_group,Circoviridae-like,Plants,580,580,1.4646465,redundancy_fold_expanded_over_representative,no,representative_count=396
+Circoviridae-like fold,fold_counts,manuscript_group,Circoviridae-like,Human,169,169,1.2706767,redundancy_fold_expanded_over_representative,no,representative_count=133
+Circoviridae-like fold,fold_counts,manuscript_group,Circoviridae-like,Bioreactors,36,36,2,redundancy_fold_expanded_over_representative,yes,representative_count=18
+Circoviridae-like fold,fold_counts,manuscript_group,Circoviridae-like,Wastewater Treatment,10,10,2,redundancy_fold_expanded_over_representative,yes,representative_count=5
+Geminiviridae-like fold,fold_counts,manuscript_group,Geminiviridae-like,Psychrophilic Low Temperature,28,28,4,redundancy_fold_expanded_over_representative,yes,representative_count=7
+Geminiviridae-like fold,fold_counts,manuscript_group,Geminiviridae-like,Thermophilic High Temperature,16,16,1.2307692,redundancy_fold_expanded_over_representative,yes,representative_count=13
+Geminiviridae-like fold,fold_counts,manuscript_group,Geminiviridae-like,Cleanrooms,10,10,0,redundancy_fold_expanded_over_representative,yes,representative_count=0
+Geminiviridae-like fold,fold_counts,manuscript_group,Geminiviridae-like,Aquatic Freshwater,2501,2501,3.1301627,redundancy_fold_expanded_over_representative,no,representative_count=799
+Geminiviridae-like fold,fold_counts,manuscript_group,Geminiviridae-like,Aquatic Marine,426,426,2.1846154,redundancy_fold_expanded_over_representative,no,representative_count=195
+Geminiviridae-like fold,fold_counts,manuscript_group,Geminiviridae-like,Plants,508,508,1.704698,redundancy_fold_expanded_over_representative,no,representative_count=298
+Geminiviridae-like fold,fold_counts,manuscript_group,Geminiviridae-like,Human,139,139,1.1982759,redundancy_fold_expanded_over_representative,no,representative_count=116
+Geminiviridae-like fold,fold_counts,manuscript_group,Geminiviridae-like,Bioreactors,9,9,1,redundancy_fold_expanded_over_representative,yes,representative_count=9
+Geminiviridae-like fold,fold_counts,manuscript_group,Geminiviridae-like,Wastewater Treatment,5,5,2.5,redundancy_fold_expanded_over_representative,yes,representative_count=2
+micro-like fold,fold_counts,manuscript_group,micro-like,Psychrophilic Low Temperature,1681,1681,3.5389474,redundancy_fold_expanded_over_representative,no,representative_count=475
+micro-like fold,fold_counts,manuscript_group,micro-like,Thermophilic High Temperature,555,555,4.3359375,redundancy_fold_expanded_over_representative,no,representative_count=128
+micro-like fold,fold_counts,manuscript_group,micro-like,Cleanrooms,6,6,6,redundancy_fold_expanded_over_representative,yes,representative_count=1
+micro-like fold,fold_counts,manuscript_group,micro-like,Aquatic Freshwater,12528,12528,7.7333333,redundancy_fold_expanded_over_representative,no,representative_count=1620
+micro-like fold,fold_counts,manuscript_group,micro-like,Aquatic Marine,8850,8850,7.5511945,redundancy_fold_expanded_over_representative,no,representative_count=1172
+micro-like fold,fold_counts,manuscript_group,micro-like,Plants,3588,3588,5.0464135,redundancy_fold_expanded_over_representative,no,representative_count=711
+micro-like fold,fold_counts,manuscript_group,micro-like,Human,9658,9658,7.903437,redundancy_fold_expanded_over_representative,no,representative_count=1222
+micro-like fold,fold_counts,manuscript_group,micro-like,Bioreactors,443,443,5.8289474,redundancy_fold_expanded_over_representative,no,representative_count=76
+micro-like fold,fold_counts,manuscript_group,micro-like,Wastewater Treatment,350,350,6.6037736,redundancy_fold_expanded_over_representative,no,representative_count=53
+BTV-like fold,fold_counts,manuscript_group,BTV-like,Psychrophilic Low Temperature,1573,1573,3.7452381,redundancy_fold_expanded_over_representative,no,representative_count=420
+BTV-like fold,fold_counts,manuscript_group,BTV-like,Thermophilic High Temperature,832,832,2.3976945,redundancy_fold_expanded_over_representative,no,representative_count=347
+BTV-like fold,fold_counts,manuscript_group,BTV-like,Cleanrooms,1,1,1,redundancy_fold_expanded_over_representative,yes,representative_count=1
+BTV-like fold,fold_counts,manuscript_group,BTV-like,Aquatic Freshwater,5745,5745,5.6323529,redundancy_fold_expanded_over_representative,no,representative_count=1020
+BTV-like fold,fold_counts,manuscript_group,BTV-like,Aquatic Marine,6485,6485,5.9495413,redundancy_fold_expanded_over_representative,no,representative_count=1090
+BTV-like fold,fold_counts,manuscript_group,BTV-like,Plants,16528,16528,4.0910891,redundancy_fold_expanded_over_representative,no,representative_count=4040
+BTV-like fold,fold_counts,manuscript_group,BTV-like,Human,7800,7800,5.0980392,redundancy_fold_expanded_over_representative,no,representative_count=1530
+BTV-like fold,fold_counts,manuscript_group,BTV-like,Bioreactors,252,252,3.4054054,redundancy_fold_expanded_over_representative,no,representative_count=74
+BTV-like fold,fold_counts,manuscript_group,BTV-like,Wastewater Treatment,213,213,2.4767442,redundancy_fold_expanded_over_representative,no,representative_count=86
+picorna-like fold,fold_counts,manuscript_group,picorna-like,Psychrophilic Low Temperature,10006,10006,3.9316306,redundancy_fold_expanded_over_representative,no,representative_count=2545
+picorna-like fold,fold_counts,manuscript_group,picorna-like,Thermophilic High Temperature,1038,1038,3.2336449,redundancy_fold_expanded_over_representative,no,representative_count=321
+picorna-like fold,fold_counts,manuscript_group,picorna-like,Cleanrooms,0,0,0,redundancy_fold_expanded_over_representative,yes,representative_count=0
+picorna-like fold,fold_counts,manuscript_group,picorna-like,Aquatic Freshwater,11052,11052,5.6101523,redundancy_fold_expanded_over_representative,no,representative_count=1970
+picorna-like fold,fold_counts,manuscript_group,picorna-like,Aquatic Marine,8522,8522,4.4132574,redundancy_fold_expanded_over_representative,no,representative_count=1931
+picorna-like fold,fold_counts,manuscript_group,picorna-like,Plants,3112,3112,3.4577778,redundancy_fold_expanded_over_representative,no,representative_count=900
+picorna-like fold,fold_counts,manuscript_group,picorna-like,Human,454,454,3.2198582,redundancy_fold_expanded_over_representative,no,representative_count=141
+picorna-like fold,fold_counts,manuscript_group,picorna-like,Bioreactors,1795,1795,8.9303483,redundancy_fold_expanded_over_representative,no,representative_count=201
+picorna-like fold,fold_counts,manuscript_group,picorna-like,Wastewater Treatment,388,388,5.4647887,redundancy_fold_expanded_over_representative,no,representative_count=71
+NCLDV-like fold,fold_counts,manuscript_group,NCLDV-like,Psychrophilic Low Temperature,658,658,4.0368098,redundancy_fold_expanded_over_representative,no,representative_count=163
+NCLDV-like fold,fold_counts,manuscript_group,NCLDV-like,Thermophilic High Temperature,7711,7711,22.350725,redundancy_fold_expanded_over_representative,no,representative_count=345
+NCLDV-like fold,fold_counts,manuscript_group,NCLDV-like,Cleanrooms,0,0,0,redundancy_fold_expanded_over_representative,yes,representative_count=0
+NCLDV-like fold,fold_counts,manuscript_group,NCLDV-like,Aquatic Freshwater,35817,35817,15.144609,redundancy_fold_expanded_over_representative,no,representative_count=2365
+NCLDV-like fold,fold_counts,manuscript_group,NCLDV-like,Aquatic Marine,51901,51901,16.393241,redundancy_fold_expanded_over_representative,no,representative_count=3166
+NCLDV-like fold,fold_counts,manuscript_group,NCLDV-like,Plants,57913,57913,7.8547403,redundancy_fold_expanded_over_representative,no,representative_count=7373
+NCLDV-like fold,fold_counts,manuscript_group,NCLDV-like,Human,1032,1032,6.490566,redundancy_fold_expanded_over_representative,no,representative_count=159
+NCLDV-like fold,fold_counts,manuscript_group,NCLDV-like,Bioreactors,35,35,2.9166667,redundancy_fold_expanded_over_representative,yes,representative_count=12
+NCLDV-like fold,fold_counts,manuscript_group,NCLDV-like,Wastewater Treatment,73,73,2.0277778,redundancy_fold_expanded_over_representative,no,representative_count=36
+HK97-like fold,fold_counts,manuscript_group,HK97-like,Psychrophilic Low Temperature,121527,121527,8.196331,redundancy_fold_expanded_over_representative,no,representative_count=14827
+HK97-like fold,fold_counts,manuscript_group,HK97-like,Thermophilic High Temperature,76220,76220,7.5570097,redundancy_fold_expanded_over_representative,no,representative_count=10086
+HK97-like fold,fold_counts,manuscript_group,HK97-like,Cleanrooms,75,75,5.3571429,redundancy_fold_expanded_over_representative,yes,representative_count=14
+HK97-like fold,fold_counts,manuscript_group,HK97-like,Aquatic Freshwater,440287,440287,23.356161,redundancy_fold_expanded_over_representative,no,representative_count=18851
+HK97-like fold,fold_counts,manuscript_group,HK97-like,Aquatic Marine,561472,561472,25.541191,redundancy_fold_expanded_over_representative,no,representative_count=21983
+HK97-like fold,fold_counts,manuscript_group,HK97-like,Plants,289915,289915,8.329694,redundancy_fold_expanded_over_representative,no,representative_count=34805
+HK97-like fold,fold_counts,manuscript_group,HK97-like,Human,233039,233039,12.401628,redundancy_fold_expanded_over_representative,no,representative_count=18791
+HK97-like fold,fold_counts,manuscript_group,HK97-like,Bioreactors,33837,33837,12.097605,redundancy_fold_expanded_over_representative,no,representative_count=2797
+HK97-like fold,fold_counts,manuscript_group,HK97-like,Wastewater Treatment,23548,23548,6.772505,redundancy_fold_expanded_over_representative,no,representative_count=3477
+Leviviricetes,annotation_association,Class,Leviviricetes,Psychrophilic Low Temperature,8792,8792,14.25,pct_composition_of_sub_ecosystem,no,pct_distribution_in_ecosystem=53.22
+Leviviricetes,annotation_association,Class,Leviviricetes,Thermophilic High Temperature,91,91,0.48,pct_composition_of_sub_ecosystem,no,pct_distribution_in_ecosystem=0.55
+Leviviricetes,annotation_association,Class,Leviviricetes,Cleanrooms,0,0,,pct_composition_of_sub_ecosystem,yes,not available in association source
+Leviviricetes,annotation_association,Class,Leviviricetes,Aquatic Freshwater,2176,2176,1.39,pct_composition_of_sub_ecosystem,no,pct_distribution_in_ecosystem=13.17
+Leviviricetes,annotation_association,Class,Leviviricetes,Aquatic Marine,1409,1409,1.32,pct_composition_of_sub_ecosystem,no,pct_distribution_in_ecosystem=8.53
+Leviviricetes,annotation_association,Class,Leviviricetes,Plants,1584,1584,1.49,pct_composition_of_sub_ecosystem,no,pct_distribution_in_ecosystem=9.59
+Leviviricetes,annotation_association,Class,Leviviricetes,Human,66,66,0.11,pct_composition_of_sub_ecosystem,no,pct_distribution_in_ecosystem=0.4
+Leviviricetes,annotation_association,Class,Leviviricetes,Bioreactors,1723,1723,19.36,pct_composition_of_sub_ecosystem,no,pct_distribution_in_ecosystem=10.43
+Leviviricetes,annotation_association,Class,Leviviricetes,Wastewater Treatment,309,309,4.11,pct_composition_of_sub_ecosystem,no,pct_distribution_in_ecosystem=1.87
+Taleaviricota,annotation_association,Phylum,Taleaviricota,Psychrophilic Low Temperature,0,0,,pct_composition_of_sub_ecosystem,yes,not available in association source
+Taleaviricota,annotation_association,Phylum,Taleaviricota,Thermophilic High Temperature,2,2,0.01,pct_composition_of_sub_ecosystem,yes,pct_distribution_in_ecosystem=100.0
+Taleaviricota,annotation_association,Phylum,Taleaviricota,Cleanrooms,0,0,,pct_composition_of_sub_ecosystem,yes,not available in association source
+Taleaviricota,annotation_association,Phylum,Taleaviricota,Aquatic Freshwater,0,0,,pct_composition_of_sub_ecosystem,yes,not available in association source
+Taleaviricota,annotation_association,Phylum,Taleaviricota,Aquatic Marine,0,0,,pct_composition_of_sub_ecosystem,yes,not available in association source
+Taleaviricota,annotation_association,Phylum,Taleaviricota,Plants,0,0,,pct_composition_of_sub_ecosystem,yes,not available in association source
+Taleaviricota,annotation_association,Phylum,Taleaviricota,Human,0,0,,pct_composition_of_sub_ecosystem,yes,not available in association source
+Taleaviricota,annotation_association,Phylum,Taleaviricota,Bioreactors,0,0,,pct_composition_of_sub_ecosystem,yes,not available in association source
+Taleaviricota,annotation_association,Phylum,Taleaviricota,Wastewater Treatment,0,0,,pct_composition_of_sub_ecosystem,yes,not available in association source
+Cressdnaviricota,annotation_association,Phylum,Cressdnaviricota,Psychrophilic Low Temperature,315,315,0.5,pct_composition_of_sub_ecosystem,no,pct_distribution_in_ecosystem=2.08
+Cressdnaviricota,annotation_association,Phylum,Cressdnaviricota,Thermophilic High Temperature,332,332,1.72,pct_composition_of_sub_ecosystem,no,pct_distribution_in_ecosystem=2.19
+Cressdnaviricota,annotation_association,Phylum,Cressdnaviricota,Cleanrooms,42,42,68.85,pct_composition_of_sub_ecosystem,no,pct_distribution_in_ecosystem=0.28
+Cressdnaviricota,annotation_association,Phylum,Cressdnaviricota,Aquatic Freshwater,8855,8855,5.43,pct_composition_of_sub_ecosystem,no,pct_distribution_in_ecosystem=58.35
+Cressdnaviricota,annotation_association,Phylum,Cressdnaviricota,Aquatic Marine,1672,1672,1.51,pct_composition_of_sub_ecosystem,no,pct_distribution_in_ecosystem=11.02
+Cressdnaviricota,annotation_association,Phylum,Cressdnaviricota,Plants,2369,2369,2.01,pct_composition_of_sub_ecosystem,no,pct_distribution_in_ecosystem=15.61
+Cressdnaviricota,annotation_association,Phylum,Cressdnaviricota,Human,1211,1211,1.98,pct_composition_of_sub_ecosystem,no,pct_distribution_in_ecosystem=7.98
+Cressdnaviricota,annotation_association,Phylum,Cressdnaviricota,Bioreactors,94,94,1.04,pct_composition_of_sub_ecosystem,no,pct_distribution_in_ecosystem=0.62
+Cressdnaviricota,annotation_association,Phylum,Cressdnaviricota,Wastewater Treatment,55,55,0.72,pct_composition_of_sub_ecosystem,no,pct_distribution_in_ecosystem=0.36
+ssDNA,annotation_association,GenomeLabel,ssDNA,Psychrophilic Low Temperature,688,688,1.04,pct_composition_of_sub_ecosystem,no,pct_distribution_in_ecosystem=1.68
+ssDNA,annotation_association,GenomeLabel,ssDNA,Thermophilic High Temperature,543,543,2.57,pct_composition_of_sub_ecosystem,no,pct_distribution_in_ecosystem=1.32
+ssDNA,annotation_association,GenomeLabel,ssDNA,Cleanrooms,51,51,77.27,pct_composition_of_sub_ecosystem,no,pct_distribution_in_ecosystem=0.12
+ssDNA,annotation_association,GenomeLabel,ssDNA,Aquatic Freshwater,16466,16466,9.23,pct_composition_of_sub_ecosystem,no,pct_distribution_in_ecosystem=40.13
+ssDNA,annotation_association,GenomeLabel,ssDNA,Aquatic Marine,7823,7823,6.5,pct_composition_of_sub_ecosystem,no,pct_distribution_in_ecosystem=19.07
+ssDNA,annotation_association,GenomeLabel,ssDNA,Plants,4544,4544,3.2,pct_composition_of_sub_ecosystem,no,pct_distribution_in_ecosystem=11.08
+ssDNA,annotation_association,GenomeLabel,ssDNA,Human,9062,9062,13.81,pct_composition_of_sub_ecosystem,no,pct_distribution_in_ecosystem=22.09
+ssDNA,annotation_association,GenomeLabel,ssDNA,Bioreactors,382,382,4.04,pct_composition_of_sub_ecosystem,no,pct_distribution_in_ecosystem=0.93
+ssDNA,annotation_association,GenomeLabel,ssDNA,Wastewater Treatment,264,264,3.35,pct_composition_of_sub_ecosystem,no,pct_distribution_in_ecosystem=0.64
+Plant-associated,annotation_association,host_group,Plants,Psychrophilic Low Temperature,1029,1029,1.62,pct_composition_of_sub_ecosystem,no,pct_distribution_in_ecosystem=19.24
+Plant-associated,annotation_association,host_group,Plants,Thermophilic High Temperature,201,201,1.03,pct_composition_of_sub_ecosystem,no,pct_distribution_in_ecosystem=3.76
+Plant-associated,annotation_association,host_group,Plants,Cleanrooms,0,0,,pct_composition_of_sub_ecosystem,yes,not available in association source
+Plant-associated,annotation_association,host_group,Plants,Aquatic Freshwater,2559,2559,1.65,pct_composition_of_sub_ecosystem,no,pct_distribution_in_ecosystem=47.85
+Plant-associated,annotation_association,host_group,Plants,Aquatic Marine,546,546,0.5,pct_composition_of_sub_ecosystem,no,pct_distribution_in_ecosystem=10.21
+Plant-associated,annotation_association,host_group,Plants,Plants,497,497,0.44,pct_composition_of_sub_ecosystem,no,pct_distribution_in_ecosystem=9.29
+Plant-associated,annotation_association,host_group,Plants,Human,214,214,0.34,pct_composition_of_sub_ecosystem,no,pct_distribution_in_ecosystem=4.0
+Plant-associated,annotation_association,host_group,Plants,Bioreactors,125,125,1.38,pct_composition_of_sub_ecosystem,no,pct_distribution_in_ecosystem=2.34
+Plant-associated,annotation_association,host_group,Plants,Wastewater Treatment,56,56,0.71,pct_composition_of_sub_ecosystem,no,pct_distribution_in_ecosystem=1.05

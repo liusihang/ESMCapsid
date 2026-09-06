@@ -1,0 +1,4 @@
+fold,cluster,auto_subgroup,best_k,silhouette,dendrogram_leaf_rank
+micro-like,4,1,2,0.6577055467350391,1
+micro-like,10,1,2,0.6577055467350391,2
+micro-like,19,2,2,0.6577055467350391,0

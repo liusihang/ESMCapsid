@@ -1,0 +1,4804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1072.84 637.52">
+  <!-- Generator: Adobe Illustrator 29.8.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 2)  -->
+  <defs>
+    <style>
+      .st0 {
+        clip-path: url(#clippath-197);
+      }
+
+      .st1 {
+        clip-path: url(#clippath-76);
+      }
+
+      .st2 {
+        clip-path: url(#clippath-189);
+      }
+
+      .st3 {
+        clip-path: url(#clippath-51);
+      }
+
+      .st4 {
+        clip-path: url(#clippath-143);
+      }
+
+      .st5 {
+        clip-path: url(#clippath-34);
+      }
+
+      .st6 {
+        clip-path: url(#clippath-107);
+      }
+
+      .st7 {
+        clip-path: url(#clippath-204);
+      }
+
+      .st8 {
+        clip-path: url(#clippath-133);
+      }
+
+      .st9 {
+        clip-path: url(#clippath-211);
+      }
+
+      .st10 {
+        clip-path: url(#clippath-222);
+      }
+
+      .st11 {
+        clip-path: url(#clippath-38);
+      }
+
+      .st12 {
+        clip-path: url(#clippath-21);
+      }
+
+      .st13, .st14, .st15, .st16, .st17, .st18, .st19, .st20, .st21, .st22, .st23, .st24, .st25, .st26, .st27 {
+        stroke-linejoin: round;
+      }
+
+      .st13, .st15, .st16, .st17, .st28, .st20, .st29, .st23, .st27 {
+        fill: none;
+      }
+
+      .st13, .st16, .st17, .st20, .st29, .st23, .st27 {
+        stroke-linecap: square;
+      }
+
+      .st13, .st16, .st17, .st20, .st23, .st27 {
+        stroke-width: 2px;
+      }
+
+      .st13, .st21 {
+        stroke: #d62728;
+      }
+
+      .st30 {
+        clip-path: url(#clippath-165);
+      }
+
+      .st14, .st18, .st19, .st21, .st22, .st26 {
+        fill-opacity: .18;
+        stroke-opacity: .18;
+      }
+
+      .st14, .st20 {
+        stroke: #8c564b;
+      }
+
+      .st14, .st31 {
+        fill: #8c564b;
+      }
+
+      .st32 {
+        clip-path: url(#clippath-213);
+      }
+
+      .st33 {
+        clip-path: url(#clippath-6);
+      }
+
+      .st34 {
+        clip-path: url(#clippath-7);
+      }
+
+      .st35 {
+        clip-path: url(#clippath-17);
+      }
+
+      .st36 {
+        clip-path: url(#clippath-224);
+      }
+
+      .st37 {
+        clip-path: url(#clippath-80);
+      }
+
+      .st38 {
+        clip-path: url(#clippath-31);
+      }
+
+      .st39 {
+        clip-path: url(#clippath-79);
+      }
+
+      .st40 {
+        clip-path: url(#clippath-138);
+      }
+
+      .st41 {
+        clip-path: url(#clippath-75);
+      }
+
+      .st42 {
+        clip-path: url(#clippath-212);
+      }
+
+      .st43 {
+        clip-path: url(#clippath-172);
+      }
+
+      .st44 {
+        clip-path: url(#clippath-15);
+      }
+
+      .st45 {
+        clip-path: url(#clippath-33);
+      }
+
+      .st46 {
+        clip-path: url(#clippath-61);
+      }
+
+      .st47 {
+        clip-path: url(#clippath-234);
+      }
+
+      .st48 {
+        clip-path: url(#clippath-116);
+      }
+
+      .st49 {
+        clip-path: url(#clippath-241);
+      }
+
+      .st50 {
+        clip-path: url(#clippath-201);
+      }
+
+      .st51 {
+        clip-path: url(#clippath-100);
+      }
+
+      .st52 {
+        clip-path: url(#clippath-18);
+      }
+
+      .st53 {
+        clip-path: url(#clippath-47);
+      }
+
+      .st54 {
+        clip-path: url(#clippath-240);
+      }
+
+      .st55 {
+        clip-path: url(#clippath-4);
+      }
+
+      .st56 {
+        clip-path: url(#clippath-71);
+      }
+
+      .st57 {
+        clip-path: url(#clippath-232);
+      }
+
+      .st58 {
+        clip-path: url(#clippath-126);
+      }
+
+      .st59 {
+        clip-path: url(#clippath-167);
+      }
+
+      .st60 {
+        clip-path: url(#clippath-120);
+      }
+
+      .st61 {
+        clip-path: url(#clippath-228);
+      }
+
+      .st62 {
+        clip-path: url(#clippath-22);
+      }
+
+      .st63 {
+        clip-path: url(#clippath-103);
+      }
+
+      .st64 {
+        clip-path: url(#clippath-23);
+      }
+
+      .st65 {
+        clip-path: url(#clippath-158);
+      }
+
+      .st66 {
+        clip-path: url(#clippath-249);
+      }
+
+      .st67 {
+        clip-path: url(#clippath-216);
+      }
+
+      .st68 {
+        clip-path: url(#clippath-191);
+      }
+
+      .st69 {
+        clip-path: url(#clippath-196);
+      }
+
+      .st70 {
+        clip-path: url(#clippath-140);
+      }
+
+      .st71 {
+        clip-path: url(#clippath-195);
+      }
+
+      .st72 {
+        clip-path: url(#clippath-199);
+      }
+
+      .st73 {
+        clip-path: url(#clippath-82);
+      }
+
+      .st74 {
+        clip-path: url(#clippath-54);
+      }
+
+      .st75 {
+        clip-path: url(#clippath-66);
+      }
+
+      .st76 {
+        clip-path: url(#clippath-238);
+      }
+
+      .st77 {
+        clip-path: url(#clippath-114);
+      }
+
+      .st78 {
+        clip-path: url(#clippath-149);
+      }
+
+      .st79 {
+        clip-path: url(#clippath-128);
+      }
+
+      .st80 {
+        clip-path: url(#clippath-9);
+      }
+
+      .st81 {
+        clip-path: url(#clippath-142);
+      }
+
+      .st82 {
+        clip-path: url(#clippath-121);
+      }
+
+      .st83 {
+        clip-path: url(#clippath-102);
+      }
+
+      .st84 {
+        clip-path: url(#clippath-70);
+      }
+
+      .st85 {
+        clip-path: url(#clippath-10);
+      }
+
+      .st86 {
+        clip-path: url(#clippath-42);
+      }
+
+      .st87 {
+        clip-path: url(#clippath-164);
+      }
+
+      .st88 {
+        clip-path: url(#clippath-132);
+      }
+
+      .st89 {
+        clip-path: url(#clippath-59);
+      }
+
+      .st90 {
+        clip-path: url(#clippath-148);
+      }
+
+      .st91 {
+        font-size: 16px;
+      }
+
+      .st91, .st92, .st93, .st94, .st95, .st31, .st96, .st97, .st98, .st99, .st100 {
+        font-family: ArialMT, Arial;
+      }
+
+      .st91, .st92, .st93, .st101, .st95, .st31, .st96, .st97, .st98, .st99, .st100 {
+        isolation: isolate;
+      }
+
+      .st102 {
+        fill: #fff;
+      }
+
+      .st103 {
+        clip-path: url(#clippath-160);
+      }
+
+      .st104 {
+        clip-path: url(#clippath-43);
+      }
+
+      .st105 {
+        clip-path: url(#clippath-64);
+      }
+
+      .st106 {
+        clip-path: url(#clippath-101);
+      }
+
+      .st107 {
+        clip-path: url(#clippath-25);
+      }
+
+      .st108 {
+        clip-path: url(#clippath-155);
+      }
+
+      .st109 {
+        clip-path: url(#clippath-27);
+      }
+
+      .st110 {
+        clip-path: url(#clippath-139);
+      }
+
+      .st111 {
+        clip-path: url(#clippath-109);
+      }
+
+      .st112 {
+        clip-path: url(#clippath-251);
+      }
+
+      .st15 {
+        stroke: #b0b0b0;
+        stroke-dasharray: 2.22 .96;
+        stroke-opacity: .25;
+      }
+
+      .st15, .st24 {
+        stroke-width: .6px;
+      }
+
+      .st113 {
+        clip-path: url(#clippath-151);
+      }
+
+      .st114 {
+        clip-path: url(#clippath-244);
+      }
+
+      .st115 {
+        clip-path: url(#clippath-130);
+      }
+
+      .st116 {
+        clip-path: url(#clippath-206);
+      }
+
+      .st117 {
+        clip-path: url(#clippath-227);
+      }
+
+      .st118 {
+        clip-path: url(#clippath-179);
+      }
+
+      .st119 {
+        clip-path: url(#clippath-60);
+      }
+
+      .st16, .st26 {
+        stroke: #ff7f0e;
+      }
+
+      .st120 {
+        clip-path: url(#clippath-176);
+      }
+
+      .st121 {
+        clip-path: url(#clippath-113);
+      }
+
+      .st122 {
+        clip-path: url(#clippath-171);
+      }
+
+      .st123 {
+        clip-path: url(#clippath-93);
+      }
+
+      .st124 {
+        clip-path: url(#clippath-205);
+      }
+
+      .st125 {
+        clip-path: url(#clippath-236);
+      }
+
+      .st126 {
+        clip-path: url(#clippath-11);
+      }
+
+      .st127 {
+        clip-path: url(#clippath-226);
+      }
+
+      .st128 {
+        clip-path: url(#clippath-57);
+      }
+
+      .st17, .st19 {
+        stroke: #1f77b4;
+      }
+
+      .st129 {
+        clip-path: url(#clippath-88);
+      }
+
+      .st92 {
+        font-size: 7px;
+      }
+
+      .st130 {
+        clip-path: url(#clippath-170);
+      }
+
+      .st131 {
+        clip-path: url(#clippath-85);
+      }
+
+      .st132 {
+        clip-path: url(#clippath-248);
+      }
+
+      .st133 {
+        clip-path: url(#clippath-159);
+      }
+
+      .st134 {
+        clip-path: url(#clippath-111);
+      }
+
+      .st135 {
+        clip-path: url(#clippath-168);
+      }
+
+      .st136 {
+        clip-path: url(#clippath-105);
+      }
+
+      .st137 {
+        clip-path: url(#clippath-208);
+      }
+
+      .st138 {
+        clip-path: url(#clippath-36);
+      }
+
+      .st139 {
+        clip-path: url(#clippath-92);
+      }
+
+      .st140 {
+        clip-path: url(#clippath-174);
+      }
+
+      .st141 {
+        clip-path: url(#clippath-182);
+      }
+
+      .st18, .st97 {
+        fill: #9467bd;
+      }
+
+      .st18, .st27 {
+        stroke: #9467bd;
+      }
+
+      .st142 {
+        clip-path: url(#clippath-147);
+      }
+
+      .st143 {
+        clip-path: url(#clippath-35);
+      }
+
+      .st144 {
+        clip-path: url(#clippath-98);
+      }
+
+      .st145 {
+        clip-path: url(#clippath-48);
+      }
+
+      .st146 {
+        clip-path: url(#clippath-104);
+      }
+
+      .st147 {
+        clip-path: url(#clippath-214);
+      }
+
+      .st93, .st95, .st31, .st97, .st98, .st100 {
+        font-size: 11px;
+      }
+
+      .st93, .st22 {
+        fill: #2ca02c;
+      }
+
+      .st148 {
+        clip-path: url(#clippath-209);
+      }
+
+      .st149 {
+        clip-path: url(#clippath-28);
+      }
+
+      .st150 {
+        clip-path: url(#clippath-193);
+      }
+
+      .st151 {
+        clip-path: url(#clippath-118);
+      }
+
+      .st152 {
+        clip-path: url(#clippath-192);
+      }
+
+      .st153 {
+        clip-path: url(#clippath-1);
+      }
+
+      .st154 {
+        clip-path: url(#clippath-56);
+      }
+
+      .st155 {
+        clip-path: url(#clippath-108);
+      }
+
+      .st156 {
+        clip-path: url(#clippath-221);
+      }
+
+      .st157 {
+        clip-path: url(#clippath-141);
+      }
+
+      .st158 {
+        clip-path: url(#clippath-220);
+      }
+
+      .st94 {
+        font-size: 12px;
+      }
+
+      .st159 {
+        clip-path: url(#clippath-90);
+      }
+
+      .st160 {
+        clip-path: url(#clippath-45);
+      }
+
+      .st161 {
+        clip-path: url(#clippath-110);
+      }
+
+      .st162 {
+        clip-path: url(#clippath-99);
+      }
+
+      .st163 {
+        clip-path: url(#clippath-89);
+      }
+
+      .st164 {
+        clip-path: url(#clippath-46);
+      }
+
+      .st165 {
+        clip-path: url(#clippath-40);
+      }
+
+      .st166 {
+        clip-path: url(#clippath-203);
+      }
+
+      .st167 {
+        clip-path: url(#clippath-180);
+      }
+
+      .st168 {
+        clip-path: url(#clippath-223);
+      }
+
+      .st169 {
+        clip-path: url(#clippath-96);
+      }
+
+      .st170 {
+        clip-path: url(#clippath-5);
+      }
+
+      .st171 {
+        clip-path: url(#clippath-20);
+      }
+
+      .st172 {
+        clip-path: url(#clippath-202);
+      }
+
+      .st173 {
+        clip-path: url(#clippath-217);
+      }
+
+      .st19, .st100 {
+        fill: #1f77b4;
+      }
+
+      .st174 {
+        clip-path: url(#clippath-95);
+      }
+
+      .st175 {
+        clip-path: url(#clippath-8);
+      }
+
+      .st21, .st98 {
+        fill: #d62728;
+      }
+
+      .st176 {
+        clip-path: url(#clippath-52);
+      }
+
+      .st95, .st26 {
+        fill: #ff7f0e;
+      }
+
+      .st177 {
+        clip-path: url(#clippath-41);
+      }
+
+      .st178 {
+        clip-path: url(#clippath-67);
+      }
+
+      .st179 {
+        clip-path: url(#clippath-154);
+      }
+
+      .st180 {
+        clip-path: url(#clippath-162);
+      }
+
+      .st96 {
+        fill: #444;
+        font-size: 8px;
+      }
+
+      .st181 {
+        clip-path: url(#clippath-74);
+      }
+
+      .st29, .st24, .st25 {
+        stroke: #000;
+      }
+
+      .st29, .st25 {
+        stroke-width: .8px;
+      }
+
+      .st182 {
+        clip-path: url(#clippath-190);
+      }
+
+      .st183 {
+        clip-path: url(#clippath-3);
+      }
+
+      .st184 {
+        clip-path: url(#clippath-250);
+      }
+
+      .st185 {
+        clip-path: url(#clippath-146);
+      }
+
+      .st186 {
+        clip-path: url(#clippath-26);
+      }
+
+      .st187 {
+        clip-path: url(#clippath-91);
+      }
+
+      .st188 {
+        clip-path: url(#clippath-137);
+      }
+
+      .st189 {
+        clip-path: url(#clippath-12);
+      }
+
+      .st22, .st23 {
+        stroke: #2ca02c;
+      }
+
+      .st190 {
+        clip-path: url(#clippath-225);
+      }
+
+      .st191 {
+        clip-path: url(#clippath-242);
+      }
+
+      .st192 {
+        clip-path: url(#clippath-135);
+      }
+
+      .st193 {
+        clip-path: url(#clippath-50);
+      }
+
+      .st194 {
+        clip-path: url(#clippath-153);
+      }
+
+      .st195 {
+        clip-path: url(#clippath-14);
+      }
+
+      .st196 {
+        clip-path: url(#clippath-183);
+      }
+
+      .st197 {
+        clip-path: url(#clippath-186);
+      }
+
+      .st198 {
+        clip-path: url(#clippath-97);
+      }
+
+      .st199 {
+        clip-path: url(#clippath-30);
+      }
+
+      .st200 {
+        clip-path: url(#clippath-247);
+      }
+
+      .st201 {
+        clip-path: url(#clippath-112);
+      }
+
+      .st202 {
+        clip-path: url(#clippath-77);
+      }
+
+      .st203 {
+        clip-path: url(#clippath-19);
+      }
+
+      .st204 {
+        clip-path: url(#clippath-127);
+      }
+
+      .st205 {
+        clip-path: url(#clippath-117);
+      }
+
+      .st206 {
+        clip-path: url(#clippath-207);
+      }
+
+      .st207 {
+        clip-path: url(#clippath-218);
+      }
+
+      .st208 {
+        clip-path: url(#clippath-239);
+      }
+
+      .st209 {
+        clip-path: url(#clippath-78);
+      }
+
+      .st210 {
+        clip-path: url(#clippath-194);
+      }
+
+      .st211 {
+        clip-path: url(#clippath-72);
+      }
+
+      .st212 {
+        clip-path: url(#clippath-84);
+      }
+
+      .st213 {
+        clip-path: url(#clippath-32);
+      }
+
+      .st214 {
+        clip-path: url(#clippath-219);
+      }
+
+      .st215 {
+        clip-path: url(#clippath-215);
+      }
+
+      .st216 {
+        clip-path: url(#clippath-229);
+      }
+
+      .st217 {
+        clip-path: url(#clippath-175);
+      }
+
+      .st218 {
+        clip-path: url(#clippath-145);
+      }
+
+      .st219 {
+        clip-path: url(#clippath-166);
+      }
+
+      .st220 {
+        clip-path: url(#clippath-210);
+      }
+
+      .st221 {
+        clip-path: url(#clippath-55);
+      }
+
+      .st222 {
+        clip-path: url(#clippath-123);
+      }
+
+      .st223 {
+        clip-path: url(#clippath-129);
+      }
+
+      .st224 {
+        clip-path: url(#clippath-245);
+      }
+
+      .st225 {
+        clip-path: url(#clippath-188);
+      }
+
+      .st226 {
+        clip-path: url(#clippath-150);
+      }
+
+      .st227 {
+        clip-path: url(#clippath-73);
+      }
+
+      .st228 {
+        clip-path: url(#clippath-181);
+      }
+
+      .st229 {
+        clip-path: url(#clippath-53);
+      }
+
+      .st230 {
+        clip-path: url(#clippath-39);
+      }
+
+      .st231 {
+        clip-path: url(#clippath-122);
+      }
+
+      .st232 {
+        clip-path: url(#clippath-81);
+      }
+
+      .st233 {
+        clip-path: url(#clippath-178);
+      }
+
+      .st234 {
+        clip-path: url(#clippath-106);
+      }
+
+      .st235 {
+        clip-path: url(#clippath-125);
+      }
+
+      .st236 {
+        clip-path: url(#clippath-16);
+      }
+
+      .st237 {
+        clip-path: url(#clippath-119);
+      }
+
+      .st238 {
+        clip-path: url(#clippath-2);
+      }
+
+      .st239 {
+        clip-path: url(#clippath-231);
+      }
+
+      .st240 {
+        clip-path: url(#clippath-29);
+      }
+
+      .st241 {
+        clip-path: url(#clippath-131);
+      }
+
+      .st242 {
+        clip-path: url(#clippath-156);
+      }
+
+      .st243 {
+        clip-path: url(#clippath-230);
+      }
+
+      .st244 {
+        clip-path: url(#clippath-49);
+      }
+
+      .st245 {
+        clip-path: url(#clippath-37);
+      }
+
+      .st99 {
+        font-size: 10px;
+      }
+
+      .st246 {
+        clip-path: url(#clippath-58);
+      }
+
+      .st247 {
+        clip-path: url(#clippath-124);
+      }
+
+      .st248 {
+        clip-path: url(#clippath-13);
+      }
+
+      .st249 {
+        clip-path: url(#clippath-136);
+      }
+
+      .st250 {
+        clip-path: url(#clippath-243);
+      }
+
+      .st251 {
+        clip-path: url(#clippath-86);
+      }
+
+      .st252 {
+        clip-path: url(#clippath-198);
+      }
+
+      .st253 {
+        clip-path: url(#clippath-144);
+      }
+
+      .st254 {
+        clip-path: url(#clippath-63);
+      }
+
+      .st255 {
+        clip-path: url(#clippath-200);
+      }
+
+      .st256 {
+        clip-path: url(#clippath-24);
+      }
+
+      .st257 {
+        clip-path: url(#clippath-94);
+      }
+
+      .st258 {
+        clip-path: url(#clippath-235);
+      }
+
+      .st259 {
+        clip-path: url(#clippath);
+      }
+
+      .st260 {
+        clip-path: url(#clippath-173);
+      }
+
+      .st261 {
+        clip-path: url(#clippath-237);
+      }
+
+      .st262 {
+        clip-path: url(#clippath-87);
+      }
+
+      .st263 {
+        clip-path: url(#clippath-68);
+      }
+
+      .st264 {
+        clip-path: url(#clippath-83);
+      }
+
+      .st265 {
+        clip-path: url(#clippath-185);
+      }
+
+      .st266 {
+        clip-path: url(#clippath-65);
+      }
+
+      .st267 {
+        clip-path: url(#clippath-134);
+      }
+
+      .st268 {
+        clip-path: url(#clippath-157);
+      }
+
+      .st269 {
+        clip-path: url(#clippath-246);
+      }
+
+      .st270 {
+        clip-path: url(#clippath-169);
+      }
+
+      .st271 {
+        clip-path: url(#clippath-44);
+      }
+
+      .st272 {
+        clip-path: url(#clippath-177);
+      }
+
+      .st273 {
+        clip-path: url(#clippath-184);
+      }
+
+      .st274 {
+        clip-path: url(#clippath-115);
+      }
+
+      .st275 {
+        clip-path: url(#clippath-163);
+      }
+
+      .st276 {
+        clip-path: url(#clippath-62);
+      }
+
+      .st277 {
+        clip-path: url(#clippath-69);
+      }
+
+      .st278 {
+        clip-path: url(#clippath-161);
+      }
+
+      .st279 {
+        clip-path: url(#clippath-152);
+      }
+
+      .st280 {
+        clip-path: url(#clippath-233);
+      }
+
+      .st281 {
+        clip-path: url(#clippath-187);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-4">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-5">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-6">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-7">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-8">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-9">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-10">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-11">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-12">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-13">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-14">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-15">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-16">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-17">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-18">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-19">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-20">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-21">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-22">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-23">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-24">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-25">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-26">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-27">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-28">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-29">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-30">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-31">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-32">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-33">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-34">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-35">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-36">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-37">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-38">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-39">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-40">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-41">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-42">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-43">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-44">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-45">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-46">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-47">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-48">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-49">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-50">
+      <rect class="st28" x="41.49" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-51">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-52">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-53">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-54">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-55">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-56">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-57">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-58">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-59">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-60">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-61">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-62">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-63">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-64">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-65">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-66">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-67">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-68">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-69">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-70">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-71">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-72">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-73">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-74">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-75">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-76">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-77">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-78">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-79">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-80">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-81">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-82">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-83">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-84">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-85">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-86">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-87">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-88">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-89">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-90">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-91">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-92">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-93">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-94">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-95">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-96">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-97">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-98">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-99">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-100">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-101">
+      <rect class="st28" x="389.66" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-102">
+      <rect class="st28" x="737.82" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-103">
+      <rect class="st28" x="737.82" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-104">
+      <rect class="st28" x="737.82" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-105">
+      <rect class="st28" x="737.82" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-106">
+      <rect class="st28" x="737.82" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-107">
+      <rect class="st28" x="737.82" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-108">
+      <rect class="st28" x="737.82" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-109">
+      <rect class="st28" x="737.82" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-110">
+      <rect class="st28" x="737.82" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-111">
+      <rect class="st28" x="737.82" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-112">
+      <rect class="st28" x="737.82" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-113">
+      <rect class="st28" x="737.82" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-114">
+      <rect class="st28" x="737.82" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-115">
+      <rect class="st28" x="737.82" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-116">
+      <rect class="st28" x="737.82" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-117">
+      <rect class="st28" x="737.82" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-118">
+      <rect class="st28" x="737.82" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-119">
+      <rect class="st28" x="737.82" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-120">
+      <rect class="st28" x="737.82" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-121">
+      <rect class="st28" x="737.82" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-122">
+      <rect class="st28" x="737.82" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-123">
+      <rect class="st28" x="737.82" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-124">
+      <rect class="st28" x="737.82" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-125">
+      <rect class="st28" x="737.82" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-126">
+      <rect class="st28" x="737.82" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-127">
+      <rect class="st28" x="737.82" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-128">
+      <rect class="st28" x="737.82" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-129">
+      <rect class="st28" x="737.82" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-130">
+      <rect class="st28" x="737.82" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-131">
+      <rect class="st28" x="737.82" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-132">
+      <rect class="st28" x="737.82" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-133">
+      <rect class="st28" x="737.82" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-134">
+      <rect class="st28" x="737.82" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-135">
+      <rect class="st28" x="737.82" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-136">
+      <rect class="st28" x="737.82" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-137">
+      <rect class="st28" x="737.82" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-138">
+      <rect class="st28" x="737.82" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-139">
+      <rect class="st28" x="737.82" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-140">
+      <rect class="st28" x="737.82" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-141">
+      <rect class="st28" x="737.82" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-142">
+      <rect class="st28" x="737.82" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-143">
+      <rect class="st28" x="737.82" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-144">
+      <rect class="st28" x="737.82" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-145">
+      <rect class="st28" x="737.82" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-146">
+      <rect class="st28" x="737.82" y="47.12" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-147">
+      <rect class="st28" x="41.49" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-148">
+      <rect class="st28" x="41.49" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-149">
+      <rect class="st28" x="41.49" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-150">
+      <rect class="st28" x="41.49" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-151">
+      <rect class="st28" x="41.49" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-152">
+      <rect class="st28" x="41.49" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-153">
+      <rect class="st28" x="41.49" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-154">
+      <rect class="st28" x="41.49" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-155">
+      <rect class="st28" x="41.49" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-156">
+      <rect class="st28" x="41.49" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-157">
+      <rect class="st28" x="41.49" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-158">
+      <rect class="st28" x="41.49" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-159">
+      <rect class="st28" x="41.49" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-160">
+      <rect class="st28" x="41.49" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-161">
+      <rect class="st28" x="41.49" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-162">
+      <rect class="st28" x="41.49" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-163">
+      <rect class="st28" x="41.49" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-164">
+      <rect class="st28" x="41.49" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-165">
+      <rect class="st28" x="41.49" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-166">
+      <rect class="st28" x="41.49" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-167">
+      <rect class="st28" x="41.49" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-168">
+      <rect class="st28" x="41.49" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-169">
+      <rect class="st28" x="41.49" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-170">
+      <rect class="st28" x="41.49" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-171">
+      <rect class="st28" x="41.49" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-172">
+      <rect class="st28" x="41.49" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-173">
+      <rect class="st28" x="41.49" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-174">
+      <rect class="st28" x="41.49" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-175">
+      <rect class="st28" x="41.49" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-176">
+      <rect class="st28" x="41.49" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-177">
+      <rect class="st28" x="41.49" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-178">
+      <rect class="st28" x="41.49" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-179">
+      <rect class="st28" x="41.49" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-180">
+      <rect class="st28" x="41.49" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-181">
+      <rect class="st28" x="41.49" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-182">
+      <rect class="st28" x="41.49" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-183">
+      <rect class="st28" x="41.49" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-184">
+      <rect class="st28" x="41.49" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-185">
+      <rect class="st28" x="41.49" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-186">
+      <rect class="st28" x="41.49" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-187">
+      <rect class="st28" x="41.49" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-188">
+      <rect class="st28" x="41.49" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-189">
+      <rect class="st28" x="389.66" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-190">
+      <rect class="st28" x="389.66" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-191">
+      <rect class="st28" x="389.66" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-192">
+      <rect class="st28" x="389.66" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-193">
+      <rect class="st28" x="389.66" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-194">
+      <rect class="st28" x="389.66" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-195">
+      <rect class="st28" x="389.66" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-196">
+      <rect class="st28" x="389.66" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-197">
+      <rect class="st28" x="389.66" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-198">
+      <rect class="st28" x="389.66" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-199">
+      <rect class="st28" x="389.66" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-200">
+      <rect class="st28" x="389.66" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-201">
+      <rect class="st28" x="389.66" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-202">
+      <rect class="st28" x="389.66" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-203">
+      <rect class="st28" x="389.66" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-204">
+      <rect class="st28" x="389.66" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-205">
+      <rect class="st28" x="389.66" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-206">
+      <rect class="st28" x="389.66" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-207">
+      <rect class="st28" x="389.66" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-208">
+      <rect class="st28" x="389.66" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-209">
+      <rect class="st28" x="389.66" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-210">
+      <rect class="st28" x="389.66" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-211">
+      <rect class="st28" x="389.66" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-212">
+      <rect class="st28" x="389.66" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-213">
+      <rect class="st28" x="389.66" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-214">
+      <rect class="st28" x="389.66" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-215">
+      <rect class="st28" x="389.66" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-216">
+      <rect class="st28" x="389.66" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-217">
+      <rect class="st28" x="389.66" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-218">
+      <rect class="st28" x="389.66" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-219">
+      <rect class="st28" x="389.66" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-220">
+      <rect class="st28" x="389.66" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-221">
+      <rect class="st28" x="389.66" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-222">
+      <rect class="st28" x="389.66" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-223">
+      <rect class="st28" x="389.66" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-224">
+      <rect class="st28" x="389.66" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-225">
+      <rect class="st28" x="389.66" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-226">
+      <rect class="st28" x="737.82" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-227">
+      <rect class="st28" x="737.82" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-228">
+      <rect class="st28" x="737.82" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-229">
+      <rect class="st28" x="737.82" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-230">
+      <rect class="st28" x="737.82" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-231">
+      <rect class="st28" x="737.82" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-232">
+      <rect class="st28" x="737.82" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-233">
+      <rect class="st28" x="737.82" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-234">
+      <rect class="st28" x="737.82" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-235">
+      <rect class="st28" x="737.82" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-236">
+      <rect class="st28" x="737.82" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-237">
+      <rect class="st28" x="737.82" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-238">
+      <rect class="st28" x="737.82" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-239">
+      <rect class="st28" x="737.82" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-240">
+      <rect class="st28" x="737.82" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-241">
+      <rect class="st28" x="737.82" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-242">
+      <rect class="st28" x="737.82" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-243">
+      <rect class="st28" x="737.82" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-244">
+      <rect class="st28" x="737.82" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-245">
+      <rect class="st28" x="737.82" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-246">
+      <rect class="st28" x="737.82" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-247">
+      <rect class="st28" x="737.82" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-248">
+      <rect class="st28" x="737.82" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-249">
+      <rect class="st28" x="737.82" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-250">
+      <rect class="st28" x="737.82" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+    <clipPath id="clippath-251">
+      <rect class="st28" x="737.82" y="352.82" width="327.82" height="244.81"/>
+    </clipPath>
+  </defs>
+  <g id="figure_1">
+    <g id="patch_1">
+      <path class="st102" d="M0,637.52h1072.84V0H0v637.52Z"/>
+    </g>
+    <g id="axes_1">
+      <g id="patch_2">
+        <path class="st102" d="M41.49,291.93h327.82V47.12H41.49v244.81Z"/>
+      </g>
+      <g id="FillBetweenPolyCollection_1">
+        <g class="st259">
+          <path id="m5cfe064b12" class="st19" d="M56.39,291.78v.02l15.7-.08,15.6-.13,15.72-.21,15.73-.33,15.66-.52,15.71-.82,15.69-1.24,15.68-1.89,15.69-2.84,15.68-4.2,15.68-6.08,15.68-8.72,15.69-12.24,15.69-16.78,15.69-22.26,15.69-28.95,15.68-36.36,15.69-44.15,15.69-52.07h0l-15.69,50.88-15.69,43.99-15.68,36.4-15.69,29.07-15.69,22.47-15.69,16.88-15.69,12.36-15.68,8.85-15.68,6.24-15.68,4.28-15.69,2.92-15.68,1.96-15.69,1.31-15.71.85-15.66.56-15.73.36-15.72.24-15.6.15-15.7.1Z"/>
+        </g>
+      </g>
+      <g id="matplotlib.axis_1">
+        <g id="xtick_1">
+          <g id="line2d_1">
+            <g class="st153">
+              <path class="st15" d="M76.9,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_2">
+            <path id="m338aed16ed" class="st25" d="M76.9,291.93v3.5"/>
+          </g>
+          <g id="text_1">
+            <g class="st101">
+              <text class="st99" transform="translate(69.05 308.24)"><tspan x="0" y="0">1</tspan></text>
+              <text class="st94" transform="translate(74.61 308.24)"><tspan x="0" y="0"> </tspan></text>
+              <text class="st99" transform="translate(74.61 308.24)"><tspan x="0" y="0">0</tspan></text>
+              <text class="st94" transform="translate(80.17 308.24)"><tspan x="0" y="0"> </tspan></text>
+              <text class="st92" transform="translate(80.34 301.27)"><tspan x="0" y="0">2</tspan></text>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_2">
+          <g id="line2d_3">
+            <g class="st238">
+              <path class="st15" d="M145.02,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_4">
+            <path id="m338aed16ed1" data-name="m338aed16ed" class="st25" d="M145.02,291.93v3.5"/>
+          </g>
+          <g id="text_2">
+            <g class="st101">
+              <text class="st99" transform="translate(137.17 308.24)"><tspan x="0" y="0">1</tspan></text>
+              <text class="st94" transform="translate(142.73 308.24)"><tspan x="0" y="0"> </tspan></text>
+              <text class="st99" transform="translate(142.73 308.24)"><tspan x="0" y="0">0</tspan></text>
+              <text class="st94" transform="translate(148.29 308.24)"><tspan x="0" y="0"> </tspan></text>
+              <text class="st92" transform="translate(148.46 301.27)"><tspan x="0" y="0">3</tspan></text>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_3">
+          <g id="line2d_5">
+            <g class="st183">
+              <path class="st15" d="M213.13,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_6">
+            <path id="m338aed16ed2" data-name="m338aed16ed" class="st25" d="M213.13,291.93v3.5"/>
+          </g>
+          <g id="text_3">
+            <g class="st101">
+              <text class="st99" transform="translate(205.28 309.12)"><tspan x="0" y="0">1</tspan></text>
+              <text class="st94" transform="translate(210.84 309.12)"><tspan x="0" y="0"> </tspan></text>
+              <text class="st99" transform="translate(210.84 309.12)"><tspan x="0" y="0">0</tspan></text>
+              <text class="st94" transform="translate(216.41 309.12)"><tspan x="0" y="0"> </tspan></text>
+              <text class="st92" transform="translate(216.58 302.15)"><tspan x="0" y="0">4</tspan></text>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_4">
+          <g id="line2d_7">
+            <g class="st55">
+              <path class="st15" d="M281.25,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_8">
+            <path id="m338aed16ed3" data-name="m338aed16ed" class="st25" d="M281.25,291.93v3.5"/>
+          </g>
+          <g id="text_4">
+            <g class="st101">
+              <text class="st99" transform="translate(273.4 309.06)"><tspan x="0" y="0">1</tspan></text>
+              <text class="st94" transform="translate(278.96 309.06)"><tspan x="0" y="0"> </tspan></text>
+              <text class="st99" transform="translate(278.96 309.06)"><tspan x="0" y="0">0</tspan></text>
+              <text class="st94" transform="translate(284.52 309.06)"><tspan x="0" y="0"> </tspan></text>
+              <text class="st92" transform="translate(284.7 302.09)"><tspan x="0" y="0">5</tspan></text>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_5">
+          <g id="line2d_9">
+            <g class="st170">
+              <path class="st15" d="M349.37,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_10">
+            <path id="m338aed16ed4" data-name="m338aed16ed" class="st25" d="M349.37,291.93v3.5"/>
+          </g>
+          <g id="text_5">
+            <g class="st101">
+              <text class="st99" transform="translate(341.52 308.24)"><tspan x="0" y="0">1</tspan></text>
+              <text class="st94" transform="translate(347.08 308.24)"><tspan x="0" y="0"> </tspan></text>
+              <text class="st99" transform="translate(347.08 308.24)"><tspan x="0" y="0">0</tspan></text>
+              <text class="st94" transform="translate(352.64 308.24)"><tspan x="0" y="0"> </tspan></text>
+              <text class="st92" transform="translate(352.82 301.27)"><tspan x="0" y="0">6</tspan></text>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_6">
+          <g id="line2d_11">
+            <g class="st33">
+              <path class="st15" d="M49.79,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_12">
+            <path id="m227c896385" class="st24" d="M49.79,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_7">
+          <g id="line2d_13">
+            <g class="st34">
+              <path class="st15" d="M56.39,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_14">
+            <path id="m227c8963851" data-name="m227c896385" class="st24" d="M56.39,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_8">
+          <g id="line2d_15">
+            <g class="st175">
+              <path class="st15" d="M61.79,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_16">
+            <path id="m227c8963852" data-name="m227c896385" class="st24" d="M61.79,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_9">
+          <g id="line2d_17">
+            <g class="st80">
+              <path class="st15" d="M66.35,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_18">
+            <path id="m227c8963853" data-name="m227c896385" class="st24" d="M66.35,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_10">
+          <g id="line2d_19">
+            <g class="st85">
+              <path class="st15" d="M70.3,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_20">
+            <path id="m227c8963854" data-name="m227c896385" class="st24" d="M70.3,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_11">
+          <g id="line2d_21">
+            <g class="st126">
+              <path class="st15" d="M73.78,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_22">
+            <path id="m227c8963855" data-name="m227c896385" class="st24" d="M73.78,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_12">
+          <g id="line2d_23">
+            <g class="st189">
+              <path class="st15" d="M97.4,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_24">
+            <path id="m227c8963856" data-name="m227c896385" class="st24" d="M97.4,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_13">
+          <g id="line2d_25">
+            <g class="st248">
+              <path class="st15" d="M109.4,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_26">
+            <path id="m227c8963857" data-name="m227c896385" class="st24" d="M109.4,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_14">
+          <g id="line2d_27">
+            <g class="st195">
+              <path class="st15" d="M117.91,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_28">
+            <path id="m227c8963858" data-name="m227c896385" class="st24" d="M117.91,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_15">
+          <g id="line2d_29">
+            <g class="st44">
+              <path class="st15" d="M124.51,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_30">
+            <path id="m227c8963859" data-name="m227c896385" class="st24" d="M124.51,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_16">
+          <g id="line2d_31">
+            <g class="st236">
+              <path class="st15" d="M129.9,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_32">
+            <path id="m227c89638510" data-name="m227c896385" class="st24" d="M129.9,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_17">
+          <g id="line2d_33">
+            <g class="st35">
+              <path class="st15" d="M134.46,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_34">
+            <path id="m227c89638511" data-name="m227c896385" class="st24" d="M134.46,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_18">
+          <g id="line2d_35">
+            <g class="st52">
+              <path class="st15" d="M138.41,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_36">
+            <path id="m227c89638512" data-name="m227c896385" class="st24" d="M138.41,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_19">
+          <g id="line2d_37">
+            <g class="st203">
+              <path class="st15" d="M141.9,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_38">
+            <path id="m227c89638513" data-name="m227c896385" class="st24" d="M141.9,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_20">
+          <g id="line2d_39">
+            <g class="st171">
+              <path class="st15" d="M165.52,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_40">
+            <path id="m227c89638514" data-name="m227c896385" class="st24" d="M165.52,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_21">
+          <g id="line2d_41">
+            <g class="st12">
+              <path class="st15" d="M177.52,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_42">
+            <path id="m227c89638515" data-name="m227c896385" class="st24" d="M177.52,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_22">
+          <g id="line2d_43">
+            <g class="st62">
+              <path class="st15" d="M186.03,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_44">
+            <path id="m227c89638516" data-name="m227c896385" class="st24" d="M186.03,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_23">
+          <g id="line2d_45">
+            <g class="st64">
+              <path class="st15" d="M192.63,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_46">
+            <path id="m227c89638517" data-name="m227c896385" class="st24" d="M192.63,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_24">
+          <g id="line2d_47">
+            <g class="st256">
+              <path class="st15" d="M198.02,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_48">
+            <path id="m227c89638518" data-name="m227c896385" class="st24" d="M198.02,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_25">
+          <g id="line2d_49">
+            <g class="st107">
+              <path class="st15" d="M202.58,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_50">
+            <path id="m227c89638519" data-name="m227c896385" class="st24" d="M202.58,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_26">
+          <g id="line2d_51">
+            <g class="st186">
+              <path class="st15" d="M206.53,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_52">
+            <path id="m227c89638520" data-name="m227c896385" class="st24" d="M206.53,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_27">
+          <g id="line2d_53">
+            <g class="st109">
+              <path class="st15" d="M210.02,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_54">
+            <path id="m227c89638521" data-name="m227c896385" class="st24" d="M210.02,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_28">
+          <g id="line2d_55">
+            <g class="st149">
+              <path class="st15" d="M233.64,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_56">
+            <path id="m227c89638522" data-name="m227c896385" class="st24" d="M233.64,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_29">
+          <g id="line2d_57">
+            <g class="st240">
+              <path class="st15" d="M245.63,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_58">
+            <path id="m227c89638523" data-name="m227c896385" class="st24" d="M245.63,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_30">
+          <g id="line2d_59">
+            <g class="st199">
+              <path class="st15" d="M254.14,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_60">
+            <path id="m227c89638524" data-name="m227c896385" class="st24" d="M254.14,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_31">
+          <g id="line2d_61">
+            <g class="st38">
+              <path class="st15" d="M260.75,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_62">
+            <path id="m227c89638525" data-name="m227c896385" class="st24" d="M260.75,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_32">
+          <g id="line2d_63">
+            <g class="st213">
+              <path class="st15" d="M266.14,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_64">
+            <path id="m227c89638526" data-name="m227c896385" class="st24" d="M266.14,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_33">
+          <g id="line2d_65">
+            <g class="st45">
+              <path class="st15" d="M270.7,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_66">
+            <path id="m227c89638527" data-name="m227c896385" class="st24" d="M270.7,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_34">
+          <g id="line2d_67">
+            <g class="st5">
+              <path class="st15" d="M274.65,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_68">
+            <path id="m227c89638528" data-name="m227c896385" class="st24" d="M274.65,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_35">
+          <g id="line2d_69">
+            <g class="st143">
+              <path class="st15" d="M278.13,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_70">
+            <path id="m227c89638529" data-name="m227c896385" class="st24" d="M278.13,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_36">
+          <g id="line2d_71">
+            <g class="st138">
+              <path class="st15" d="M301.76,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_72">
+            <path id="m227c89638530" data-name="m227c896385" class="st24" d="M301.76,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_37">
+          <g id="line2d_73">
+            <g class="st245">
+              <path class="st15" d="M313.75,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_74">
+            <path id="m227c89638531" data-name="m227c896385" class="st24" d="M313.75,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_38">
+          <g id="line2d_75">
+            <g class="st11">
+              <path class="st15" d="M322.26,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_76">
+            <path id="m227c89638532" data-name="m227c896385" class="st24" d="M322.26,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_39">
+          <g id="line2d_77">
+            <g class="st230">
+              <path class="st15" d="M328.86,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_78">
+            <path id="m227c89638533" data-name="m227c896385" class="st24" d="M328.86,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_40">
+          <g id="line2d_79">
+            <g class="st165">
+              <path class="st15" d="M334.26,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_80">
+            <path id="m227c89638534" data-name="m227c896385" class="st24" d="M334.26,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_41">
+          <g id="line2d_81">
+            <g class="st177">
+              <path class="st15" d="M338.82,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_82">
+            <path id="m227c89638535" data-name="m227c896385" class="st24" d="M338.82,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_42">
+          <g id="line2d_83">
+            <g class="st86">
+              <path class="st15" d="M342.77,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_84">
+            <path id="m227c89638536" data-name="m227c896385" class="st24" d="M342.77,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_43">
+          <g id="line2d_85">
+            <g class="st104">
+              <path class="st15" d="M346.25,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_86">
+            <path id="m227c89638537" data-name="m227c896385" class="st24" d="M346.25,291.93v2"/>
+          </g>
+        </g>
+        <g id="text_6">
+          <text class="st99" transform="translate(149.26 322.51)"><tspan x="0" y="0">Sample size (sequences)</tspan></text>
+        </g>
+      </g>
+      <g id="matplotlib.axis_2">
+        <g id="ytick_1">
+          <g id="line2d_87">
+            <g class="st271">
+              <path class="st15" d="M41.49,291.93h327.82"/>
+            </g>
+          </g>
+          <g id="line2d_88">
+            <path id="m36c6cbdf90" class="st25" d="M41.49,291.93h-3.5"/>
+          </g>
+          <g id="text_7">
+            <text class="st99" transform="translate(20.59 295.51)"><tspan x="0" y="0">0.0</tspan></text>
+          </g>
+        </g>
+        <g id="ytick_2">
+          <g id="line2d_89">
+            <g class="st160">
+              <path class="st15" d="M41.49,243.93h327.82"/>
+            </g>
+          </g>
+          <g id="line2d_90">
+            <path id="m36c6cbdf901" data-name="m36c6cbdf90" class="st25" d="M41.49,243.93h-3.5"/>
+          </g>
+          <g id="text_8">
+            <text class="st99" transform="translate(20.59 247.51)"><tspan x="0" y="0">0.2</tspan></text>
+          </g>
+        </g>
+        <g id="ytick_3">
+          <g id="line2d_91">
+            <g class="st164">
+              <path class="st15" d="M41.49,195.93h327.82"/>
+            </g>
+          </g>
+          <g id="line2d_92">
+            <path id="m36c6cbdf902" data-name="m36c6cbdf90" class="st25" d="M41.49,195.93h-3.5"/>
+          </g>
+          <g id="text_9">
+            <text class="st99" transform="translate(20.59 199.51)"><tspan x="0" y="0">0.4</tspan></text>
+          </g>
+        </g>
+        <g id="ytick_4">
+          <g id="line2d_93">
+            <g class="st53">
+              <path class="st15" d="M41.49,147.92h327.82"/>
+            </g>
+          </g>
+          <g id="line2d_94">
+            <path id="m36c6cbdf903" data-name="m36c6cbdf90" class="st25" d="M41.49,147.92h-3.5"/>
+          </g>
+          <g id="text_10">
+            <text class="st99" transform="translate(20.59 151.5)"><tspan x="0" y="0">0.6</tspan></text>
+          </g>
+        </g>
+        <g id="ytick_5">
+          <g id="line2d_95">
+            <g class="st145">
+              <path class="st15" d="M41.49,99.92h327.82"/>
+            </g>
+          </g>
+          <g id="line2d_96">
+            <path id="m36c6cbdf904" data-name="m36c6cbdf90" class="st25" d="M41.49,99.92h-3.5"/>
+          </g>
+          <g id="text_11">
+            <text class="st99" transform="translate(20.59 103.5)"><tspan x="0" y="0">0.8</tspan></text>
+          </g>
+        </g>
+        <g id="ytick_6">
+          <g id="line2d_97">
+            <g class="st244">
+              <path class="st15" d="M41.49,51.92h327.82"/>
+            </g>
+          </g>
+          <g id="line2d_98">
+            <path id="m36c6cbdf905" data-name="m36c6cbdf90" class="st25" d="M41.49,51.92h-3.5"/>
+          </g>
+          <g id="text_12">
+            <text class="st99" transform="translate(20.59 55.5)"><tspan x="0" y="0">1.0</tspan></text>
+          </g>
+        </g>
+        <g id="text_13">
+          <text class="st99" transform="translate(14.49 264.56) rotate(-90)"><tspan x="0" y="0">Observed cluster fraction (k / total clusters)</tspan></text>
+        </g>
+      </g>
+      <g id="line2d_99">
+        <g class="st193">
+          <path class="st17" d="M56.39,291.79l15.7-.09,15.6-.14,15.72-.23,15.73-.35,15.66-.54,15.71-.84,15.69-1.27,15.68-1.92,15.69-2.88,15.68-4.24,15.68-6.16,15.68-8.8,15.69-12.3,15.69-16.81,15.69-22.41,15.69-28.95,15.68-36.4,15.69-44.12,15.69-51.43"/>
+        </g>
+      </g>
+      <g id="patch_3">
+        <path class="st29" d="M41.49,291.93V47.12"/>
+      </g>
+      <g id="patch_4">
+        <path class="st29" d="M369.31,291.93V47.12"/>
+      </g>
+      <g id="patch_5">
+        <path class="st29" d="M41.49,291.93h327.82"/>
+      </g>
+      <g id="patch_6">
+        <path class="st29" d="M41.49,47.12h327.82"/>
+      </g>
+      <g id="text_14">
+        <text class="st96" transform="translate(51.33 267.19)"><tspan x="0" y="0">n=1,185,648</tspan></text>
+        <text class="st96" transform="translate(51.33 275.65)"><tspan x="0" y="0">k=78,357</tspan></text>
+      </g>
+      <g id="text_15">
+        <text class="st100" transform="translate(149.15 39.12)"><tspan x="0" y="0">General Environmental</tspan></text>
+      </g>
+    </g>
+    <g id="axes_2">
+      <g id="patch_7">
+        <path class="st102" d="M389.66,291.93h327.82V47.12h-327.82v244.81Z"/>
+      </g>
+      <g id="FillBetweenPolyCollection_2">
+        <g class="st3">
+          <path id="m31da8252b5" class="st21" d="M404.56,291.8h0s15.52-.08,15.52-.08l15.88-.14,15.66-.22,15.66-.35,15.72-.57,15.66-.9,15.7-1.42,15.69-2.15,15.68-3.28,15.69-4.86,15.69-7.06,15.68-10.05,15.69-13.88,15.68-18.58,15.69-24.14,15.68-30.04,15.69-35.82,15.69-41.05,15.69-45.27h0l-15.69,44.21-15.69,40.89-15.69,35.92-15.68,30.15-15.69,24.21-15.68,18.75-15.69,14.04-15.68,10.18-15.69,7.17-15.69,4.93-15.68,3.37-15.69,2.22-15.7,1.47-15.66.93-15.72.59-15.66.37-15.66.23-15.88.15-15.52.09Z"/>
+        </g>
+      </g>
+      <g id="matplotlib.axis_3">
+        <g id="xtick_44">
+          <g id="line2d_100">
+            <g class="st176">
+              <path class="st15" d="M426.31,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_101">
+            <path id="m338aed16ed5" data-name="m338aed16ed" class="st25" d="M426.31,291.93v3.5"/>
+          </g>
+          <g id="text_16">
+            <g class="st101">
+              <text class="st99" transform="translate(418.46 308.24)"><tspan x="0" y="0">1</tspan></text>
+              <text class="st94" transform="translate(424.02 308.24)"><tspan x="0" y="0"> </tspan></text>
+              <text class="st99" transform="translate(424.02 308.24)"><tspan x="0" y="0">0</tspan></text>
+              <text class="st94" transform="translate(429.58 308.24)"><tspan x="0" y="0"> </tspan></text>
+              <text class="st92" transform="translate(429.76 301.27)"><tspan x="0" y="0">2</tspan></text>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_45">
+          <g id="line2d_102">
+            <g class="st229">
+              <path class="st15" d="M498.56,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_103">
+            <path id="m338aed16ed6" data-name="m338aed16ed" class="st25" d="M498.56,291.93v3.5"/>
+          </g>
+          <g id="text_17">
+            <g class="st101">
+              <text class="st99" transform="translate(490.71 308.24)"><tspan x="0" y="0">1</tspan></text>
+              <text class="st94" transform="translate(496.27 308.24)"><tspan x="0" y="0"> </tspan></text>
+              <text class="st99" transform="translate(496.27 308.24)"><tspan x="0" y="0">0</tspan></text>
+              <text class="st94" transform="translate(501.83 308.24)"><tspan x="0" y="0"> </tspan></text>
+              <text class="st92" transform="translate(502.01 301.27)"><tspan x="0" y="0">3</tspan></text>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_46">
+          <g id="line2d_104">
+            <g class="st74">
+              <path class="st15" d="M570.81,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_105">
+            <path id="m338aed16ed7" data-name="m338aed16ed" class="st25" d="M570.81,291.93v3.5"/>
+          </g>
+          <g id="text_18">
+            <g class="st101">
+              <text class="st99" transform="translate(562.96 309.12)"><tspan x="0" y="0">1</tspan></text>
+              <text class="st94" transform="translate(568.52 309.12)"><tspan x="0" y="0"> </tspan></text>
+              <text class="st99" transform="translate(568.52 309.12)"><tspan x="0" y="0">0</tspan></text>
+              <text class="st94" transform="translate(574.09 309.12)"><tspan x="0" y="0"> </tspan></text>
+              <text class="st92" transform="translate(574.26 302.15)"><tspan x="0" y="0">4</tspan></text>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_47">
+          <g id="line2d_106">
+            <g class="st221">
+              <path class="st15" d="M643.07,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_107">
+            <path id="m338aed16ed8" data-name="m338aed16ed" class="st25" d="M643.07,291.93v3.5"/>
+          </g>
+          <g id="text_19">
+            <g class="st101">
+              <text class="st99" transform="translate(635.22 309.06)"><tspan x="0" y="0">1</tspan></text>
+              <text class="st94" transform="translate(640.78 309.06)"><tspan x="0" y="0"> </tspan></text>
+              <text class="st99" transform="translate(640.78 309.06)"><tspan x="0" y="0">0</tspan></text>
+              <text class="st94" transform="translate(646.34 309.06)"><tspan x="0" y="0"> </tspan></text>
+              <text class="st92" transform="translate(646.51 302.09)"><tspan x="0" y="0">5</tspan></text>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_48">
+          <g id="line2d_108">
+            <g class="st154">
+              <path class="st15" d="M715.32,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_109">
+            <path id="m338aed16ed9" data-name="m338aed16ed" class="st25" d="M715.32,291.93v3.5"/>
+          </g>
+          <g id="text_20">
+            <g class="st101">
+              <text class="st99" transform="translate(707.47 308.24)"><tspan x="0" y="0">1</tspan></text>
+              <text class="st94" transform="translate(713.03 308.24)"><tspan x="0" y="0"> </tspan></text>
+              <text class="st99" transform="translate(713.03 308.24)"><tspan x="0" y="0">0</tspan></text>
+              <text class="st94" transform="translate(718.59 308.24)"><tspan x="0" y="0"> </tspan></text>
+              <text class="st92" transform="translate(718.77 301.27)"><tspan x="0" y="0">6</tspan></text>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_49">
+          <g id="line2d_110">
+            <g class="st128">
+              <path class="st15" d="M397.56,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_111">
+            <path id="m227c89638538" data-name="m227c896385" class="st24" d="M397.56,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_50">
+          <g id="line2d_112">
+            <g class="st246">
+              <path class="st15" d="M404.56,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_113">
+            <path id="m227c89638539" data-name="m227c896385" class="st24" d="M404.56,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_51">
+          <g id="line2d_114">
+            <g class="st89">
+              <path class="st15" d="M410.28,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_115">
+            <path id="m227c89638540" data-name="m227c896385" class="st24" d="M410.28,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_52">
+          <g id="line2d_116">
+            <g class="st119">
+              <path class="st15" d="M415.12,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_117">
+            <path id="m227c89638541" data-name="m227c896385" class="st24" d="M415.12,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_53">
+          <g id="line2d_118">
+            <g class="st46">
+              <path class="st15" d="M419.31,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_119">
+            <path id="m227c89638542" data-name="m227c896385" class="st24" d="M419.31,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_54">
+          <g id="line2d_120">
+            <g class="st276">
+              <path class="st15" d="M423,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_121">
+            <path id="m227c89638543" data-name="m227c896385" class="st24" d="M423,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_55">
+          <g id="line2d_122">
+            <g class="st254">
+              <path class="st15" d="M448.06,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_123">
+            <path id="m227c89638544" data-name="m227c896385" class="st24" d="M448.06,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_56">
+          <g id="line2d_124">
+            <g class="st105">
+              <path class="st15" d="M460.78,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_125">
+            <path id="m227c89638545" data-name="m227c896385" class="st24" d="M460.78,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_57">
+          <g id="line2d_126">
+            <g class="st266">
+              <path class="st15" d="M469.81,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_127">
+            <path id="m227c89638546" data-name="m227c896385" class="st24" d="M469.81,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_58">
+          <g id="line2d_128">
+            <g class="st75">
+              <path class="st15" d="M476.81,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_129">
+            <path id="m227c89638547" data-name="m227c896385" class="st24" d="M476.81,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_59">
+          <g id="line2d_130">
+            <g class="st178">
+              <path class="st15" d="M482.53,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_131">
+            <path id="m227c89638548" data-name="m227c896385" class="st24" d="M482.53,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_60">
+          <g id="line2d_132">
+            <g class="st263">
+              <path class="st15" d="M487.37,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_133">
+            <path id="m227c89638549" data-name="m227c896385" class="st24" d="M487.37,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_61">
+          <g id="line2d_134">
+            <g class="st277">
+              <path class="st15" d="M491.56,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_135">
+            <path id="m227c89638550" data-name="m227c896385" class="st24" d="M491.56,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_62">
+          <g id="line2d_136">
+            <g class="st84">
+              <path class="st15" d="M495.25,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_137">
+            <path id="m227c89638551" data-name="m227c896385" class="st24" d="M495.25,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_63">
+          <g id="line2d_138">
+            <g class="st56">
+              <path class="st15" d="M520.31,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_139">
+            <path id="m227c89638552" data-name="m227c896385" class="st24" d="M520.31,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_64">
+          <g id="line2d_140">
+            <g class="st211">
+              <path class="st15" d="M533.03,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_141">
+            <path id="m227c89638553" data-name="m227c896385" class="st24" d="M533.03,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_65">
+          <g id="line2d_142">
+            <g class="st227">
+              <path class="st15" d="M542.06,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_143">
+            <path id="m227c89638554" data-name="m227c896385" class="st24" d="M542.06,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_66">
+          <g id="line2d_144">
+            <g class="st181">
+              <path class="st15" d="M549.06,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_145">
+            <path id="m227c89638555" data-name="m227c896385" class="st24" d="M549.06,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_67">
+          <g id="line2d_146">
+            <g class="st41">
+              <path class="st15" d="M554.78,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_147">
+            <path id="m227c89638556" data-name="m227c896385" class="st24" d="M554.78,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_68">
+          <g id="line2d_148">
+            <g class="st1">
+              <path class="st15" d="M559.62,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_149">
+            <path id="m227c89638557" data-name="m227c896385" class="st24" d="M559.62,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_69">
+          <g id="line2d_150">
+            <g class="st202">
+              <path class="st15" d="M563.81,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_151">
+            <path id="m227c89638558" data-name="m227c896385" class="st24" d="M563.81,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_70">
+          <g id="line2d_152">
+            <g class="st209">
+              <path class="st15" d="M567.51,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_153">
+            <path id="m227c89638559" data-name="m227c896385" class="st24" d="M567.51,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_71">
+          <g id="line2d_154">
+            <g class="st39">
+              <path class="st15" d="M592.56,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_155">
+            <path id="m227c89638560" data-name="m227c896385" class="st24" d="M592.56,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_72">
+          <g id="line2d_156">
+            <g class="st37">
+              <path class="st15" d="M605.29,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_157">
+            <path id="m227c89638561" data-name="m227c896385" class="st24" d="M605.29,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_73">
+          <g id="line2d_158">
+            <g class="st232">
+              <path class="st15" d="M614.31,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_159">
+            <path id="m227c89638562" data-name="m227c896385" class="st24" d="M614.31,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_74">
+          <g id="line2d_160">
+            <g class="st73">
+              <path class="st15" d="M621.32,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_161">
+            <path id="m227c89638563" data-name="m227c896385" class="st24" d="M621.32,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_75">
+          <g id="line2d_162">
+            <g class="st264">
+              <path class="st15" d="M627.04,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_163">
+            <path id="m227c89638564" data-name="m227c896385" class="st24" d="M627.04,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_76">
+          <g id="line2d_164">
+            <g class="st212">
+              <path class="st15" d="M631.87,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_165">
+            <path id="m227c89638565" data-name="m227c896385" class="st24" d="M631.87,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_77">
+          <g id="line2d_166">
+            <g class="st131">
+              <path class="st15" d="M636.06,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_167">
+            <path id="m227c89638566" data-name="m227c896385" class="st24" d="M636.06,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_78">
+          <g id="line2d_168">
+            <g class="st251">
+              <path class="st15" d="M639.76,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_169">
+            <path id="m227c89638567" data-name="m227c896385" class="st24" d="M639.76,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_79">
+          <g id="line2d_170">
+            <g class="st262">
+              <path class="st15" d="M664.82,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_171">
+            <path id="m227c89638568" data-name="m227c896385" class="st24" d="M664.82,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_80">
+          <g id="line2d_172">
+            <g class="st129">
+              <path class="st15" d="M677.54,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_173">
+            <path id="m227c89638569" data-name="m227c896385" class="st24" d="M677.54,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_81">
+          <g id="line2d_174">
+            <g class="st163">
+              <path class="st15" d="M686.57,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_175">
+            <path id="m227c89638570" data-name="m227c896385" class="st24" d="M686.57,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_82">
+          <g id="line2d_176">
+            <g class="st159">
+              <path class="st15" d="M693.57,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_177">
+            <path id="m227c89638571" data-name="m227c896385" class="st24" d="M693.57,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_83">
+          <g id="line2d_178">
+            <g class="st187">
+              <path class="st15" d="M699.29,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_179">
+            <path id="m227c89638572" data-name="m227c896385" class="st24" d="M699.29,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_84">
+          <g id="line2d_180">
+            <g class="st139">
+              <path class="st15" d="M704.13,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_181">
+            <path id="m227c89638573" data-name="m227c896385" class="st24" d="M704.13,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_85">
+          <g id="line2d_182">
+            <g class="st123">
+              <path class="st15" d="M708.32,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_183">
+            <path id="m227c89638574" data-name="m227c896385" class="st24" d="M708.32,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_86">
+          <g id="line2d_184">
+            <g class="st257">
+              <path class="st15" d="M712.01,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_185">
+            <path id="m227c89638575" data-name="m227c896385" class="st24" d="M712.01,291.93v2"/>
+          </g>
+        </g>
+        <g id="text_21">
+          <text class="st99" transform="translate(497.43 322.51)"><tspan x="0" y="0">Sample size (sequences)</tspan></text>
+        </g>
+      </g>
+      <g id="matplotlib.axis_4">
+        <g id="ytick_7">
+          <g id="line2d_186">
+            <g class="st174">
+              <path class="st15" d="M389.66,291.93h327.82"/>
+            </g>
+          </g>
+          <g id="line2d_187">
+            <path id="m36c6cbdf906" data-name="m36c6cbdf90" class="st25" d="M389.66,291.93h-3.5"/>
+          </g>
+        </g>
+        <g id="ytick_8">
+          <g id="line2d_188">
+            <g class="st169">
+              <path class="st15" d="M389.66,243.93h327.82"/>
+            </g>
+          </g>
+          <g id="line2d_189">
+            <path id="m36c6cbdf907" data-name="m36c6cbdf90" class="st25" d="M389.66,243.93h-3.5"/>
+          </g>
+        </g>
+        <g id="ytick_9">
+          <g id="line2d_190">
+            <g class="st198">
+              <path class="st15" d="M389.66,195.93h327.82"/>
+            </g>
+          </g>
+          <g id="line2d_191">
+            <path id="m36c6cbdf908" data-name="m36c6cbdf90" class="st25" d="M389.66,195.93h-3.5"/>
+          </g>
+        </g>
+        <g id="ytick_10">
+          <g id="line2d_192">
+            <g class="st144">
+              <path class="st15" d="M389.66,147.92h327.82"/>
+            </g>
+          </g>
+          <g id="line2d_193">
+            <path id="m36c6cbdf909" data-name="m36c6cbdf90" class="st25" d="M389.66,147.92h-3.5"/>
+          </g>
+        </g>
+        <g id="ytick_11">
+          <g id="line2d_194">
+            <g class="st162">
+              <path class="st15" d="M389.66,99.92h327.82"/>
+            </g>
+          </g>
+          <g id="line2d_195">
+            <path id="m36c6cbdf9010" data-name="m36c6cbdf90" class="st25" d="M389.66,99.92h-3.5"/>
+          </g>
+        </g>
+        <g id="ytick_12">
+          <g id="line2d_196">
+            <g class="st51">
+              <path class="st15" d="M389.66,51.92h327.82"/>
+            </g>
+          </g>
+          <g id="line2d_197">
+            <path id="m36c6cbdf9011" data-name="m36c6cbdf90" class="st25" d="M389.66,51.92h-3.5"/>
+          </g>
+        </g>
+      </g>
+      <g id="line2d_198">
+        <g class="st106">
+          <path class="st13" d="M404.56,291.8l15.52-.08,15.88-.14,15.66-.23,15.66-.36,15.72-.58,15.66-.91,15.7-1.44,15.69-2.19,15.68-3.31,15.69-4.91,15.69-7.12,15.68-10.11,15.69-13.95,15.68-18.71,15.69-24.14,15.68-30.1,15.69-35.89,15.69-40.97,15.69-44.72"/>
+        </g>
+      </g>
+      <g id="patch_8">
+        <path class="st29" d="M389.66,291.93V47.12"/>
+      </g>
+      <g id="patch_9">
+        <path class="st29" d="M717.47,291.93V47.12"/>
+      </g>
+      <g id="patch_10">
+        <path class="st29" d="M389.66,291.93h327.82"/>
+      </g>
+      <g id="patch_11">
+        <path class="st29" d="M389.66,47.12h327.82"/>
+      </g>
+      <g id="text_22">
+        <text class="st96" transform="translate(399.49 267.19)"><tspan x="0" y="0">n=666,196</tspan></text>
+        <text class="st96" transform="translate(399.49 275.65)"><tspan x="0" y="0">k=89,005</tspan></text>
+      </g>
+      <g id="text_23">
+        <text class="st98" transform="translate(514.13 39.12)"><tspan x="0" y="0">Host Associated</tspan></text>
+      </g>
+    </g>
+    <g id="axes_3">
+      <g id="patch_12">
+        <path class="st102" d="M737.82,291.93h327.82V47.12h-327.82v244.81Z"/>
+      </g>
+      <g id="FillBetweenPolyCollection_3">
+        <g class="st83">
+          <path id="mdcc93e1ebf" class="st26" d="M752.72,291.74h0s15.61-.1,15.61-.1l15.66-.17,15.7-.26,15.74-.41,15.67-.63,15.73-.96,15.67-1.48,15.7-2.2,15.67-3.25,15.69-4.73,15.68-6.77,15.68-9.52,15.69-13,15.69-17.34,15.69-22.71,15.68-28.79,15.68-35.53,15.69-42.49,15.69-49.5h0l-15.69,48.22-15.69,42.38-15.68,35.62-15.68,28.92-15.69,22.9-15.69,17.5-15.69,13.16-15.68,9.63-15.68,6.87-15.69,4.85-15.67,3.34-15.7,2.26-15.67,1.52-15.73,1-15.67.65-15.74.43-15.7.27-15.66.18-15.61.11Z"/>
+        </g>
+      </g>
+      <g id="matplotlib.axis_5">
+        <g id="xtick_87">
+          <g id="line2d_199">
+            <g class="st63">
+              <path class="st15" d="M776.38,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_200">
+            <path id="m338aed16ed10" data-name="m338aed16ed" class="st25" d="M776.38,291.93v3.5"/>
+          </g>
+          <g id="text_24">
+            <g class="st101">
+              <text class="st99" transform="translate(768.53 308.24)"><tspan x="0" y="0">1</tspan></text>
+              <text class="st94" transform="translate(774.1 308.24)"><tspan x="0" y="0"> </tspan></text>
+              <text class="st99" transform="translate(774.1 308.24)"><tspan x="0" y="0">0</tspan></text>
+              <text class="st94" transform="translate(779.66 308.24)"><tspan x="0" y="0"> </tspan></text>
+              <text class="st92" transform="translate(779.83 301.27)"><tspan x="0" y="0">2</tspan></text>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_88">
+          <g id="line2d_201">
+            <g class="st146">
+              <path class="st15" d="M854.98,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_202">
+            <path id="m338aed16ed11" data-name="m338aed16ed" class="st25" d="M854.98,291.93v3.5"/>
+          </g>
+          <g id="text_25">
+            <g class="st101">
+              <text class="st99" transform="translate(847.13 308.24)"><tspan x="0" y="0">1</tspan></text>
+              <text class="st94" transform="translate(852.69 308.24)"><tspan x="0" y="0"> </tspan></text>
+              <text class="st99" transform="translate(852.69 308.24)"><tspan x="0" y="0">0</tspan></text>
+              <text class="st94" transform="translate(858.25 308.24)"><tspan x="0" y="0"> </tspan></text>
+              <text class="st92" transform="translate(858.43 301.27)"><tspan x="0" y="0">3</tspan></text>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_89">
+          <g id="line2d_203">
+            <g class="st136">
+              <path class="st15" d="M933.58,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_204">
+            <path id="m338aed16ed12" data-name="m338aed16ed" class="st25" d="M933.58,291.93v3.5"/>
+          </g>
+          <g id="text_26">
+            <g class="st101">
+              <text class="st99" transform="translate(925.73 309.12)"><tspan x="0" y="0">1</tspan></text>
+              <text class="st94" transform="translate(931.29 309.12)"><tspan x="0" y="0"> </tspan></text>
+              <text class="st99" transform="translate(931.29 309.12)"><tspan x="0" y="0">0</tspan></text>
+              <text class="st94" transform="translate(936.85 309.12)"><tspan x="0" y="0"> </tspan></text>
+              <text class="st92" transform="translate(937.03 302.15)"><tspan x="0" y="0">4</tspan></text>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_90">
+          <g id="line2d_205">
+            <g class="st234">
+              <path class="st15" d="M1012.18,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_206">
+            <path id="m338aed16ed13" data-name="m338aed16ed" class="st25" d="M1012.18,291.93v3.5"/>
+          </g>
+          <g id="text_27">
+            <g class="st101">
+              <text class="st99" transform="translate(1004.33 309.06)"><tspan x="0" y="0">1</tspan></text>
+              <text class="st94" transform="translate(1009.89 309.06)"><tspan x="0" y="0"> </tspan></text>
+              <text class="st99" transform="translate(1009.89 309.06)"><tspan x="0" y="0">0</tspan></text>
+              <text class="st94" transform="translate(1015.45 309.06)"><tspan x="0" y="0"> </tspan></text>
+              <text class="st92" transform="translate(1015.62 302.09)"><tspan x="0" y="0">5</tspan></text>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_91">
+          <g id="line2d_207">
+            <g class="st6">
+              <path class="st15" d="M745.11,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_208">
+            <path id="m227c89638576" data-name="m227c896385" class="st24" d="M745.11,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_92">
+          <g id="line2d_209">
+            <g class="st155">
+              <path class="st15" d="M752.72,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_210">
+            <path id="m227c89638577" data-name="m227c896385" class="st24" d="M752.72,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_93">
+          <g id="line2d_211">
+            <g class="st111">
+              <path class="st15" d="M758.95,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_212">
+            <path id="m227c89638578" data-name="m227c896385" class="st24" d="M758.95,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_94">
+          <g id="line2d_213">
+            <g class="st161">
+              <path class="st15" d="M764.21,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_214">
+            <path id="m227c89638579" data-name="m227c896385" class="st24" d="M764.21,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_95">
+          <g id="line2d_215">
+            <g class="st134">
+              <path class="st15" d="M768.77,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_216">
+            <path id="m227c89638580" data-name="m227c896385" class="st24" d="M768.77,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_96">
+          <g id="line2d_217">
+            <g class="st201">
+              <path class="st15" d="M772.79,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_218">
+            <path id="m227c89638581" data-name="m227c896385" class="st24" d="M772.79,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_97">
+          <g id="line2d_219">
+            <g class="st121">
+              <path class="st15" d="M800.04,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_220">
+            <path id="m227c89638582" data-name="m227c896385" class="st24" d="M800.04,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_98">
+          <g id="line2d_221">
+            <g class="st77">
+              <path class="st15" d="M813.88,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_222">
+            <path id="m227c89638583" data-name="m227c896385" class="st24" d="M813.88,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_99">
+          <g id="line2d_223">
+            <g class="st274">
+              <path class="st15" d="M823.7,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_224">
+            <path id="m227c89638584" data-name="m227c896385" class="st24" d="M823.7,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_100">
+          <g id="line2d_225">
+            <g class="st48">
+              <path class="st15" d="M831.32,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_226">
+            <path id="m227c89638585" data-name="m227c896385" class="st24" d="M831.32,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_101">
+          <g id="line2d_227">
+            <g class="st205">
+              <path class="st15" d="M837.54,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_228">
+            <path id="m227c89638586" data-name="m227c896385" class="st24" d="M837.54,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_102">
+          <g id="line2d_229">
+            <g class="st151">
+              <path class="st15" d="M842.81,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_230">
+            <path id="m227c89638587" data-name="m227c896385" class="st24" d="M842.81,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_103">
+          <g id="line2d_231">
+            <g class="st237">
+              <path class="st15" d="M847.36,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_232">
+            <path id="m227c89638588" data-name="m227c896385" class="st24" d="M847.36,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_104">
+          <g id="line2d_233">
+            <g class="st60">
+              <path class="st15" d="M851.39,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_234">
+            <path id="m227c89638589" data-name="m227c896385" class="st24" d="M851.39,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_105">
+          <g id="line2d_235">
+            <g class="st82">
+              <path class="st15" d="M878.64,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_236">
+            <path id="m227c89638590" data-name="m227c896385" class="st24" d="M878.64,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_106">
+          <g id="line2d_237">
+            <g class="st231">
+              <path class="st15" d="M892.48,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_238">
+            <path id="m227c89638591" data-name="m227c896385" class="st24" d="M892.48,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_107">
+          <g id="line2d_239">
+            <g class="st222">
+              <path class="st15" d="M902.3,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_240">
+            <path id="m227c89638592" data-name="m227c896385" class="st24" d="M902.3,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_108">
+          <g id="line2d_241">
+            <g class="st247">
+              <path class="st15" d="M909.92,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_242">
+            <path id="m227c89638593" data-name="m227c896385" class="st24" d="M909.92,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_109">
+          <g id="line2d_243">
+            <g class="st235">
+              <path class="st15" d="M916.14,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_244">
+            <path id="m227c89638594" data-name="m227c896385" class="st24" d="M916.14,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_110">
+          <g id="line2d_245">
+            <g class="st58">
+              <path class="st15" d="M921.4,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_246">
+            <path id="m227c89638595" data-name="m227c896385" class="st24" d="M921.4,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_111">
+          <g id="line2d_247">
+            <g class="st204">
+              <path class="st15" d="M925.96,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_248">
+            <path id="m227c89638596" data-name="m227c896385" class="st24" d="M925.96,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_112">
+          <g id="line2d_249">
+            <g class="st79">
+              <path class="st15" d="M929.98,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_250">
+            <path id="m227c89638597" data-name="m227c896385" class="st24" d="M929.98,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_113">
+          <g id="line2d_251">
+            <g class="st223">
+              <path class="st15" d="M957.24,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_252">
+            <path id="m227c89638598" data-name="m227c896385" class="st24" d="M957.24,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_114">
+          <g id="line2d_253">
+            <g class="st115">
+              <path class="st15" d="M971.08,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_254">
+            <path id="m227c89638599" data-name="m227c896385" class="st24" d="M971.08,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_115">
+          <g id="line2d_255">
+            <g class="st241">
+              <path class="st15" d="M980.9,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_256">
+            <path id="m227c896385100" data-name="m227c896385" class="st24" d="M980.9,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_116">
+          <g id="line2d_257">
+            <g class="st88">
+              <path class="st15" d="M988.52,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_258">
+            <path id="m227c896385101" data-name="m227c896385" class="st24" d="M988.52,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_117">
+          <g id="line2d_259">
+            <g class="st8">
+              <path class="st15" d="M994.74,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_260">
+            <path id="m227c896385102" data-name="m227c896385" class="st24" d="M994.74,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_118">
+          <g id="line2d_261">
+            <g class="st267">
+              <path class="st15" d="M1000,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_262">
+            <path id="m227c896385103" data-name="m227c896385" class="st24" d="M1000,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_119">
+          <g id="line2d_263">
+            <g class="st192">
+              <path class="st15" d="M1004.56,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_264">
+            <path id="m227c896385104" data-name="m227c896385" class="st24" d="M1004.56,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_120">
+          <g id="line2d_265">
+            <g class="st249">
+              <path class="st15" d="M1008.58,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_266">
+            <path id="m227c896385105" data-name="m227c896385" class="st24" d="M1008.58,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_121">
+          <g id="line2d_267">
+            <g class="st188">
+              <path class="st15" d="M1035.84,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_268">
+            <path id="m227c896385106" data-name="m227c896385" class="st24" d="M1035.84,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_122">
+          <g id="line2d_269">
+            <g class="st40">
+              <path class="st15" d="M1049.68,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_270">
+            <path id="m227c896385107" data-name="m227c896385" class="st24" d="M1049.68,291.93v2"/>
+          </g>
+        </g>
+        <g id="xtick_123">
+          <g id="line2d_271">
+            <g class="st110">
+              <path class="st15" d="M1059.5,291.93V47.12"/>
+            </g>
+          </g>
+          <g id="line2d_272">
+            <path id="m227c896385108" data-name="m227c896385" class="st24" d="M1059.5,291.93v2"/>
+          </g>
+        </g>
+        <g id="text_28">
+          <text class="st99" transform="translate(845.59 322.51)"><tspan x="0" y="0">Sample size (sequences)</tspan></text>
+        </g>
+      </g>
+      <g id="matplotlib.axis_6">
+        <g id="ytick_13">
+          <g id="line2d_273">
+            <g class="st70">
+              <path class="st15" d="M737.82,291.93h327.82"/>
+            </g>
+          </g>
+          <g id="line2d_274">
+            <path id="m36c6cbdf9012" data-name="m36c6cbdf90" class="st25" d="M737.82,291.93h-3.5"/>
+          </g>
+        </g>
+        <g id="ytick_14">
+          <g id="line2d_275">
+            <g class="st157">
+              <path class="st15" d="M737.82,243.93h327.82"/>
+            </g>
+          </g>
+          <g id="line2d_276">
+            <path id="m36c6cbdf9013" data-name="m36c6cbdf90" class="st25" d="M737.82,243.93h-3.5"/>
+          </g>
+        </g>
+        <g id="ytick_15">
+          <g id="line2d_277">
+            <g class="st81">
+              <path class="st15" d="M737.82,195.93h327.82"/>
+            </g>
+          </g>
+          <g id="line2d_278">
+            <path id="m36c6cbdf9014" data-name="m36c6cbdf90" class="st25" d="M737.82,195.93h-3.5"/>
+          </g>
+        </g>
+        <g id="ytick_16">
+          <g id="line2d_279">
+            <g class="st4">
+              <path class="st15" d="M737.82,147.92h327.82"/>
+            </g>
+          </g>
+          <g id="line2d_280">
+            <path id="m36c6cbdf9015" data-name="m36c6cbdf90" class="st25" d="M737.82,147.92h-3.5"/>
+          </g>
+        </g>
+        <g id="ytick_17">
+          <g id="line2d_281">
+            <g class="st253">
+              <path class="st15" d="M737.82,99.92h327.82"/>
+            </g>
+          </g>
+          <g id="line2d_282">
+            <path id="m36c6cbdf9016" data-name="m36c6cbdf90" class="st25" d="M737.82,99.92h-3.5"/>
+          </g>
+        </g>
+        <g id="ytick_18">
+          <g id="line2d_283">
+            <g class="st218">
+              <path class="st15" d="M737.82,51.92h327.82"/>
+            </g>
+          </g>
+          <g id="line2d_284">
+            <path id="m36c6cbdf9017" data-name="m36c6cbdf90" class="st25" d="M737.82,51.92h-3.5"/>
+          </g>
+        </g>
+      </g>
+      <g id="line2d_285">
+        <g class="st185">
+          <path class="st16" d="M752.72,291.74l15.61-.11,15.66-.17,15.7-.27,15.74-.42,15.67-.64,15.73-.98,15.67-1.49,15.7-2.23,15.67-3.29,15.69-4.78,15.68-6.83,15.68-9.56,15.69-13.08,15.69-17.46,15.69-22.75,15.68-28.88,15.68-35.57,15.69-42.45,15.69-48.85"/>
+        </g>
+      </g>
+      <g id="patch_13">
+        <path class="st29" d="M737.82,291.93V47.12"/>
+      </g>
+      <g id="patch_14">
+        <path class="st29" d="M1065.64,291.93V47.12"/>
+      </g>
+      <g id="patch_15">
+        <path class="st29" d="M737.82,291.93h327.82"/>
+      </g>
+      <g id="patch_16">
+        <path class="st29" d="M737.82,47.12h327.82"/>
+      </g>
+      <g id="text_29">
+        <text class="st96" transform="translate(747.66 267.19)"><tspan x="0" y="0">n=309,493</tspan></text>
+        <text class="st96" transform="translate(747.66 275.65)"><tspan x="0" y="0">k=62,895</tspan></text>
+      </g>
+      <g id="text_30">
+        <text class="st95" transform="translate(846.1 39.12)"><tspan x="0" y="0">Extreme Environments</tspan></text>
+      </g>
+    </g>
+    <g id="axes_4">
+      <g id="patch_17">
+        <path class="st102" d="M41.49,597.63h327.82v-244.81H41.49v244.81Z"/>
+      </g>
+      <g id="FillBetweenPolyCollection_4">
+        <g class="st142">
+          <path id="m6645af7596" class="st22" d="M56.39,596.91v.04l15.89-.33,15.32-.45,15.93-.69,15.58-.95,15.68-1.4,15.72-2.03,15.68-2.82,15.69-3.92,15.69-5.45,15.67-7.23,15.69-9.62,15.68-12.38,15.68-15.8,15.69-19.33,15.68-23.59,15.69-27.54,15.69-31.43,15.68-35.57,15.69-38.8h0l-15.69,36.58-15.68,34.95-15.69,31.6-15.69,27.89-15.68,23.69-15.69,19.64-15.68,16.07-15.68,12.65-15.69,9.97-15.67,7.42-15.69,5.63-15.69,4.08-15.68,2.94-15.72,2.12-15.68,1.47-15.58,1.02-15.93.73-15.32.49-15.89.35Z"/>
+        </g>
+      </g>
+      <g id="matplotlib.axis_7">
+        <g id="xtick_124">
+          <g id="line2d_286">
+            <g class="st90">
+              <path class="st15" d="M84.48,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_287">
+            <path id="m338aed16ed14" data-name="m338aed16ed" class="st25" d="M84.48,597.63v3.5"/>
+          </g>
+          <g id="text_31">
+            <g class="st101">
+              <text class="st99" transform="translate(76.63 613.94)"><tspan x="0" y="0">1</tspan></text>
+              <text class="st94" transform="translate(82.19 613.94)"><tspan x="0" y="0"> </tspan></text>
+              <text class="st99" transform="translate(82.19 613.94)"><tspan x="0" y="0">0</tspan></text>
+              <text class="st94" transform="translate(87.75 613.94)"><tspan x="0" y="0"> </tspan></text>
+              <text class="st92" transform="translate(87.93 606.97)"><tspan x="0" y="0">2</tspan></text>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_125">
+          <g id="line2d_288">
+            <g class="st78">
+              <path class="st15" d="M177.79,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_289">
+            <path id="m338aed16ed15" data-name="m338aed16ed" class="st25" d="M177.79,597.63v3.5"/>
+          </g>
+          <g id="text_32">
+            <g class="st101">
+              <text class="st99" transform="translate(169.94 613.94)"><tspan x="0" y="0">1</tspan></text>
+              <text class="st94" transform="translate(175.5 613.94)"><tspan x="0" y="0"> </tspan></text>
+              <text class="st99" transform="translate(175.5 613.94)"><tspan x="0" y="0">0</tspan></text>
+              <text class="st94" transform="translate(181.07 613.94)"><tspan x="0" y="0"> </tspan></text>
+              <text class="st92" transform="translate(181.24 606.97)"><tspan x="0" y="0">3</tspan></text>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_126">
+          <g id="line2d_290">
+            <g class="st226">
+              <path class="st15" d="M271.11,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_291">
+            <path id="m338aed16ed16" data-name="m338aed16ed" class="st25" d="M271.11,597.63v3.5"/>
+          </g>
+          <g id="text_33">
+            <g class="st101">
+              <text class="st99" transform="translate(263.26 614.82)"><tspan x="0" y="0">1</tspan></text>
+              <text class="st94" transform="translate(268.82 614.82)"><tspan x="0" y="0"> </tspan></text>
+              <text class="st99" transform="translate(268.82 614.82)"><tspan x="0" y="0">0</tspan></text>
+              <text class="st94" transform="translate(274.38 614.82)"><tspan x="0" y="0"> </tspan></text>
+              <text class="st92" transform="translate(274.55 607.85)"><tspan x="0" y="0">4</tspan></text>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_127">
+          <g id="line2d_292">
+            <g class="st113">
+              <path class="st15" d="M364.42,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_293">
+            <path id="m338aed16ed17" data-name="m338aed16ed" class="st25" d="M364.42,597.63v3.5"/>
+          </g>
+          <g id="text_34">
+            <g class="st101">
+              <text class="st99" transform="translate(356.57 614.76)"><tspan x="0" y="0">1</tspan></text>
+              <text class="st94" transform="translate(362.13 614.76)"><tspan x="0" y="0"> </tspan></text>
+              <text class="st99" transform="translate(362.13 614.76)"><tspan x="0" y="0">0</tspan></text>
+              <text class="st94" transform="translate(367.69 614.76)"><tspan x="0" y="0"> </tspan></text>
+              <text class="st92" transform="translate(367.86 607.79)"><tspan x="0" y="0">5</tspan></text>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_128">
+          <g id="line2d_294">
+            <g class="st279">
+              <path class="st15" d="M47.35,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_295">
+            <path id="m227c896385109" data-name="m227c896385" class="st24" d="M47.35,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_129">
+          <g id="line2d_296">
+            <g class="st194">
+              <path class="st15" d="M56.39,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_297">
+            <path id="m227c896385110" data-name="m227c896385" class="st24" d="M56.39,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_130">
+          <g id="line2d_298">
+            <g class="st179">
+              <path class="st15" d="M63.78,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_299">
+            <path id="m227c896385111" data-name="m227c896385" class="st24" d="M63.78,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_131">
+          <g id="line2d_300">
+            <g class="st108">
+              <path class="st15" d="M70.03,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_301">
+            <path id="m227c896385112" data-name="m227c896385" class="st24" d="M70.03,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_132">
+          <g id="line2d_302">
+            <g class="st242">
+              <path class="st15" d="M75.44,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_303">
+            <path id="m227c896385113" data-name="m227c896385" class="st24" d="M75.44,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_133">
+          <g id="line2d_304">
+            <g class="st268">
+              <path class="st15" d="M80.21,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_305">
+            <path id="m227c896385114" data-name="m227c896385" class="st24" d="M80.21,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_134">
+          <g id="line2d_306">
+            <g class="st65">
+              <path class="st15" d="M112.57,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_307">
+            <path id="m227c896385115" data-name="m227c896385" class="st24" d="M112.57,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_135">
+          <g id="line2d_308">
+            <g class="st133">
+              <path class="st15" d="M129,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_309">
+            <path id="m227c896385116" data-name="m227c896385" class="st24" d="M129,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_136">
+          <g id="line2d_310">
+            <g class="st103">
+              <path class="st15" d="M140.66,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_311">
+            <path id="m227c896385117" data-name="m227c896385" class="st24" d="M140.66,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_137">
+          <g id="line2d_312">
+            <g class="st278">
+              <path class="st15" d="M149.7,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_313">
+            <path id="m227c896385118" data-name="m227c896385" class="st24" d="M149.7,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_138">
+          <g id="line2d_314">
+            <g class="st180">
+              <path class="st15" d="M157.09,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_315">
+            <path id="m227c896385119" data-name="m227c896385" class="st24" d="M157.09,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_139">
+          <g id="line2d_316">
+            <g class="st275">
+              <path class="st15" d="M163.34,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_317">
+            <path id="m227c896385120" data-name="m227c896385" class="st24" d="M163.34,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_140">
+          <g id="line2d_318">
+            <g class="st87">
+              <path class="st15" d="M168.75,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_319">
+            <path id="m227c896385121" data-name="m227c896385" class="st24" d="M168.75,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_141">
+          <g id="line2d_320">
+            <g class="st30">
+              <path class="st15" d="M173.52,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_321">
+            <path id="m227c896385122" data-name="m227c896385" class="st24" d="M173.52,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_142">
+          <g id="line2d_322">
+            <g class="st219">
+              <path class="st15" d="M205.88,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_323">
+            <path id="m227c896385123" data-name="m227c896385" class="st24" d="M205.88,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_143">
+          <g id="line2d_324">
+            <g class="st59">
+              <path class="st15" d="M222.31,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_325">
+            <path id="m227c896385124" data-name="m227c896385" class="st24" d="M222.31,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_144">
+          <g id="line2d_326">
+            <g class="st135">
+              <path class="st15" d="M233.97,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_327">
+            <path id="m227c896385125" data-name="m227c896385" class="st24" d="M233.97,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_145">
+          <g id="line2d_328">
+            <g class="st270">
+              <path class="st15" d="M243.02,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_329">
+            <path id="m227c896385126" data-name="m227c896385" class="st24" d="M243.02,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_146">
+          <g id="line2d_330">
+            <g class="st130">
+              <path class="st15" d="M250.4,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_331">
+            <path id="m227c896385127" data-name="m227c896385" class="st24" d="M250.4,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_147">
+          <g id="line2d_332">
+            <g class="st122">
+              <path class="st15" d="M256.65,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_333">
+            <path id="m227c896385128" data-name="m227c896385" class="st24" d="M256.65,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_148">
+          <g id="line2d_334">
+            <g class="st43">
+              <path class="st15" d="M262.06,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_335">
+            <path id="m227c896385129" data-name="m227c896385" class="st24" d="M262.06,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_149">
+          <g id="line2d_336">
+            <g class="st260">
+              <path class="st15" d="M266.84,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_337">
+            <path id="m227c896385130" data-name="m227c896385" class="st24" d="M266.84,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_150">
+          <g id="line2d_338">
+            <g class="st140">
+              <path class="st15" d="M299.19,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_339">
+            <path id="m227c896385131" data-name="m227c896385" class="st24" d="M299.19,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_151">
+          <g id="line2d_340">
+            <g class="st217">
+              <path class="st15" d="M315.63,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_341">
+            <path id="m227c896385132" data-name="m227c896385" class="st24" d="M315.63,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_152">
+          <g id="line2d_342">
+            <g class="st120">
+              <path class="st15" d="M327.28,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_343">
+            <path id="m227c896385133" data-name="m227c896385" class="st24" d="M327.28,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_153">
+          <g id="line2d_344">
+            <g class="st272">
+              <path class="st15" d="M336.33,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_345">
+            <path id="m227c896385134" data-name="m227c896385" class="st24" d="M336.33,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_154">
+          <g id="line2d_346">
+            <g class="st233">
+              <path class="st15" d="M343.72,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_347">
+            <path id="m227c896385135" data-name="m227c896385" class="st24" d="M343.72,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_155">
+          <g id="line2d_348">
+            <g class="st118">
+              <path class="st15" d="M349.96,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_349">
+            <path id="m227c896385136" data-name="m227c896385" class="st24" d="M349.96,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_156">
+          <g id="line2d_350">
+            <g class="st167">
+              <path class="st15" d="M355.37,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_351">
+            <path id="m227c896385137" data-name="m227c896385" class="st24" d="M355.37,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_157">
+          <g id="line2d_352">
+            <g class="st228">
+              <path class="st15" d="M360.15,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_353">
+            <path id="m227c896385138" data-name="m227c896385" class="st24" d="M360.15,597.63v2"/>
+          </g>
+        </g>
+        <g id="text_35">
+          <text class="st99" transform="translate(149.26 628.21)"><tspan x="0" y="0">Sample size (sequences)</tspan></text>
+        </g>
+      </g>
+      <g id="matplotlib.axis_8">
+        <g id="ytick_19">
+          <g id="line2d_354">
+            <g class="st141">
+              <path class="st15" d="M41.49,597.63h327.82"/>
+            </g>
+          </g>
+          <g id="line2d_355">
+            <path id="m36c6cbdf9018" data-name="m36c6cbdf90" class="st25" d="M41.49,597.63h-3.5"/>
+          </g>
+          <g id="text_36">
+            <text class="st99" transform="translate(20.59 601.21)"><tspan x="0" y="0">0.0</tspan></text>
+          </g>
+        </g>
+        <g id="ytick_20">
+          <g id="line2d_356">
+            <g class="st196">
+              <path class="st15" d="M41.49,549.63h327.82"/>
+            </g>
+          </g>
+          <g id="line2d_357">
+            <path id="m36c6cbdf9019" data-name="m36c6cbdf90" class="st25" d="M41.49,549.63h-3.5"/>
+          </g>
+          <g id="text_37">
+            <text class="st99" transform="translate(20.59 553.21)"><tspan x="0" y="0">0.2</tspan></text>
+          </g>
+        </g>
+        <g id="ytick_21">
+          <g id="line2d_358">
+            <g class="st273">
+              <path class="st15" d="M41.49,501.63h327.82"/>
+            </g>
+          </g>
+          <g id="line2d_359">
+            <path id="m36c6cbdf9020" data-name="m36c6cbdf90" class="st25" d="M41.49,501.63h-3.5"/>
+          </g>
+          <g id="text_38">
+            <text class="st99" transform="translate(20.59 505.21)"><tspan x="0" y="0">0.4</tspan></text>
+          </g>
+        </g>
+        <g id="ytick_22">
+          <g id="line2d_360">
+            <g class="st265">
+              <path class="st15" d="M41.49,453.62h327.82"/>
+            </g>
+          </g>
+          <g id="line2d_361">
+            <path id="m36c6cbdf9021" data-name="m36c6cbdf90" class="st25" d="M41.49,453.62h-3.5"/>
+          </g>
+          <g id="text_39">
+            <text class="st99" transform="translate(20.59 457.2)"><tspan x="0" y="0">0.6</tspan></text>
+          </g>
+        </g>
+        <g id="ytick_23">
+          <g id="line2d_362">
+            <g class="st197">
+              <path class="st15" d="M41.49,405.62h327.82"/>
+            </g>
+          </g>
+          <g id="line2d_363">
+            <path id="m36c6cbdf9022" data-name="m36c6cbdf90" class="st25" d="M41.49,405.62h-3.5"/>
+          </g>
+          <g id="text_40">
+            <text class="st99" transform="translate(20.59 409.2)"><tspan x="0" y="0">0.8</tspan></text>
+          </g>
+        </g>
+        <g id="ytick_24">
+          <g id="line2d_364">
+            <g class="st281">
+              <path class="st15" d="M41.49,357.62h327.82"/>
+            </g>
+          </g>
+          <g id="line2d_365">
+            <path id="m36c6cbdf9023" data-name="m36c6cbdf90" class="st25" d="M41.49,357.62h-3.5"/>
+          </g>
+          <g id="text_41">
+            <text class="st99" transform="translate(20.59 361.2)"><tspan x="0" y="0">1.0</tspan></text>
+          </g>
+        </g>
+        <g id="text_42">
+          <text class="st99" transform="translate(14.49 570.26) rotate(-90)"><tspan x="0" y="0">Observed cluster fraction (k / total clusters)</tspan></text>
+        </g>
+      </g>
+      <g id="line2d_366">
+        <g class="st225">
+          <path class="st23" d="M56.39,596.92l15.89-.34,15.32-.47,15.93-.7,15.58-1,15.68-1.43,15.72-2.06,15.68-2.87,15.69-4.01,15.69-5.49,15.67-7.38,15.69-9.76,15.68-12.55,15.68-15.88,15.69-19.56,15.68-23.6,15.69-27.67,15.69-31.62,15.68-35.19,15.69-37.71"/>
+        </g>
+      </g>
+      <g id="patch_18">
+        <path class="st29" d="M41.49,597.63v-244.81"/>
+      </g>
+      <g id="patch_19">
+        <path class="st29" d="M369.31,597.63v-244.81"/>
+      </g>
+      <g id="patch_20">
+        <path class="st29" d="M41.49,597.63h327.82"/>
+      </g>
+      <g id="patch_21">
+        <path class="st29" d="M41.49,352.82h327.82"/>
+      </g>
+      <g id="text_43">
+        <text class="st96" transform="translate(51.33 572.89)"><tspan x="0" y="0">n=78,113</tspan></text>
+        <text class="st96" transform="translate(51.33 581.35)"><tspan x="0" y="0">k=16,654</tspan></text>
+      </g>
+      <g id="text_44">
+        <text class="st93" transform="translate(154.65 344.82)"><tspan x="0" y="0">Engineered Systems</tspan></text>
+      </g>
+    </g>
+    <g id="axes_5">
+      <g id="patch_22">
+        <path class="st102" d="M389.66,597.63h327.82v-244.81h-327.82v244.81Z"/>
+      </g>
+      <g id="FillBetweenPolyCollection_5">
+        <g class="st2">
+          <path id="m3d3f6eb1fd" class="st18" d="M404.56,596.84v.03l15.69-.32,15.77-.44,15.56-.63,15.68-.88,15.65-1.22,15.7-1.73,15.71-2.42,15.69-3.28,15.71-4.54,15.69-6.17,15.68-8.21,15.68-10.92,15.69-14.07,15.68-17.94,15.69-22.54,15.68-27.54,15.68-33.15,15.68-38.58,15.69-44.66h0l-15.69,42.45-15.68,38.37-15.68,33.03-15.68,27.81-15.69,22.88-15.68,18.26-15.69,14.38-15.68,11.16-15.68,8.44-15.69,6.36-15.71,4.67-15.69,3.46-15.71,2.48-15.7,1.8-15.65,1.28-15.68.93-15.56.66-15.77.47-15.69.33Z"/>
+        </g>
+      </g>
+      <g id="matplotlib.axis_9">
+        <g id="xtick_158">
+          <g id="line2d_367">
+            <g class="st182">
+              <path class="st15" d="M435.58,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_368">
+            <path id="m338aed16ed18" data-name="m338aed16ed" class="st25" d="M435.58,597.63v3.5"/>
+          </g>
+          <g id="text_45">
+            <g class="st101">
+              <text class="st99" transform="translate(427.73 613.94)"><tspan x="0" y="0">1</tspan></text>
+              <text class="st94" transform="translate(433.29 613.94)"><tspan x="0" y="0"> </tspan></text>
+              <text class="st99" transform="translate(433.29 613.94)"><tspan x="0" y="0">0</tspan></text>
+              <text class="st94" transform="translate(438.85 613.94)"><tspan x="0" y="0"> </tspan></text>
+              <text class="st92" transform="translate(439.03 606.97)"><tspan x="0" y="0">2</tspan></text>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_159">
+          <g id="line2d_369">
+            <g class="st68">
+              <path class="st15" d="M538.63,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_370">
+            <path id="m338aed16ed19" data-name="m338aed16ed" class="st25" d="M538.63,597.63v3.5"/>
+          </g>
+          <g id="text_46">
+            <g class="st101">
+              <text class="st99" transform="translate(530.78 613.94)"><tspan x="0" y="0">1</tspan></text>
+              <text class="st94" transform="translate(536.34 613.94)"><tspan x="0" y="0"> </tspan></text>
+              <text class="st99" transform="translate(536.34 613.94)"><tspan x="0" y="0">0</tspan></text>
+              <text class="st94" transform="translate(541.9 613.94)"><tspan x="0" y="0"> </tspan></text>
+              <text class="st92" transform="translate(542.08 606.97)"><tspan x="0" y="0">3</tspan></text>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_160">
+          <g id="line2d_371">
+            <g class="st152">
+              <path class="st15" d="M641.68,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_372">
+            <path id="m338aed16ed20" data-name="m338aed16ed" class="st25" d="M641.68,597.63v3.5"/>
+          </g>
+          <g id="text_47">
+            <g class="st101">
+              <text class="st99" transform="translate(633.83 614.82)"><tspan x="0" y="0">1</tspan></text>
+              <text class="st94" transform="translate(639.39 614.82)"><tspan x="0" y="0"> </tspan></text>
+              <text class="st99" transform="translate(639.39 614.82)"><tspan x="0" y="0">0</tspan></text>
+              <text class="st94" transform="translate(644.95 614.82)"><tspan x="0" y="0"> </tspan></text>
+              <text class="st92" transform="translate(645.13 607.85)"><tspan x="0" y="0">4</tspan></text>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_161">
+          <g id="line2d_373">
+            <g class="st150">
+              <path class="st15" d="M394.57,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_374">
+            <path id="m227c896385139" data-name="m227c896385" class="st24" d="M394.57,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_162">
+          <g id="line2d_375">
+            <g class="st210">
+              <path class="st15" d="M404.56,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_376">
+            <path id="m227c896385140" data-name="m227c896385" class="st24" d="M404.56,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_163">
+          <g id="line2d_377">
+            <g class="st71">
+              <path class="st15" d="M412.72,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_378">
+            <path id="m227c896385141" data-name="m227c896385" class="st24" d="M412.72,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_164">
+          <g id="line2d_379">
+            <g class="st69">
+              <path class="st15" d="M419.62,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_380">
+            <path id="m227c896385142" data-name="m227c896385" class="st24" d="M419.62,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_165">
+          <g id="line2d_381">
+            <g class="st0">
+              <path class="st15" d="M425.59,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_382">
+            <path id="m227c896385143" data-name="m227c896385" class="st24" d="M425.59,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_166">
+          <g id="line2d_383">
+            <g class="st252">
+              <path class="st15" d="M430.86,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_384">
+            <path id="m227c896385144" data-name="m227c896385" class="st24" d="M430.86,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_167">
+          <g id="line2d_385">
+            <g class="st72">
+              <path class="st15" d="M466.6,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_386">
+            <path id="m227c896385145" data-name="m227c896385" class="st24" d="M466.6,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_168">
+          <g id="line2d_387">
+            <g class="st255">
+              <path class="st15" d="M484.75,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_388">
+            <path id="m227c896385146" data-name="m227c896385" class="st24" d="M484.75,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_169">
+          <g id="line2d_389">
+            <g class="st50">
+              <path class="st15" d="M497.62,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_390">
+            <path id="m227c896385147" data-name="m227c896385" class="st24" d="M497.62,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_170">
+          <g id="line2d_391">
+            <g class="st172">
+              <path class="st15" d="M507.61,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_392">
+            <path id="m227c896385148" data-name="m227c896385" class="st24" d="M507.61,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_171">
+          <g id="line2d_393">
+            <g class="st166">
+              <path class="st15" d="M515.77,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_394">
+            <path id="m227c896385149" data-name="m227c896385" class="st24" d="M515.77,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_172">
+          <g id="line2d_395">
+            <g class="st7">
+              <path class="st15" d="M522.67,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_396">
+            <path id="m227c896385150" data-name="m227c896385" class="st24" d="M522.67,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_173">
+          <g id="line2d_397">
+            <g class="st124">
+              <path class="st15" d="M528.64,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_398">
+            <path id="m227c896385151" data-name="m227c896385" class="st24" d="M528.64,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_174">
+          <g id="line2d_399">
+            <g class="st116">
+              <path class="st15" d="M533.91,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_400">
+            <path id="m227c896385152" data-name="m227c896385" class="st24" d="M533.91,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_175">
+          <g id="line2d_401">
+            <g class="st206">
+              <path class="st15" d="M569.65,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_402">
+            <path id="m227c896385153" data-name="m227c896385" class="st24" d="M569.65,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_176">
+          <g id="line2d_403">
+            <g class="st137">
+              <path class="st15" d="M587.8,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_404">
+            <path id="m227c896385154" data-name="m227c896385" class="st24" d="M587.8,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_177">
+          <g id="line2d_405">
+            <g class="st148">
+              <path class="st15" d="M600.67,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_406">
+            <path id="m227c896385155" data-name="m227c896385" class="st24" d="M600.67,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_178">
+          <g id="line2d_407">
+            <g class="st220">
+              <path class="st15" d="M610.66,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_408">
+            <path id="m227c896385156" data-name="m227c896385" class="st24" d="M610.66,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_179">
+          <g id="line2d_409">
+            <g class="st9">
+              <path class="st15" d="M618.82,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_410">
+            <path id="m227c896385157" data-name="m227c896385" class="st24" d="M618.82,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_180">
+          <g id="line2d_411">
+            <g class="st42">
+              <path class="st15" d="M625.72,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_412">
+            <path id="m227c896385158" data-name="m227c896385" class="st24" d="M625.72,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_181">
+          <g id="line2d_413">
+            <g class="st32">
+              <path class="st15" d="M631.69,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_414">
+            <path id="m227c896385159" data-name="m227c896385" class="st24" d="M631.69,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_182">
+          <g id="line2d_415">
+            <g class="st147">
+              <path class="st15" d="M636.97,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_416">
+            <path id="m227c896385160" data-name="m227c896385" class="st24" d="M636.97,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_183">
+          <g id="line2d_417">
+            <g class="st215">
+              <path class="st15" d="M672.7,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_418">
+            <path id="m227c896385161" data-name="m227c896385" class="st24" d="M672.7,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_184">
+          <g id="line2d_419">
+            <g class="st67">
+              <path class="st15" d="M690.85,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_420">
+            <path id="m227c896385162" data-name="m227c896385" class="st24" d="M690.85,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_185">
+          <g id="line2d_421">
+            <g class="st173">
+              <path class="st15" d="M703.72,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_422">
+            <path id="m227c896385163" data-name="m227c896385" class="st24" d="M703.72,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_186">
+          <g id="line2d_423">
+            <g class="st207">
+              <path class="st15" d="M713.71,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_424">
+            <path id="m227c896385164" data-name="m227c896385" class="st24" d="M713.71,597.63v2"/>
+          </g>
+        </g>
+        <g id="text_48">
+          <text class="st99" transform="translate(497.43 628.21)"><tspan x="0" y="0">Sample size (sequences)</tspan></text>
+        </g>
+      </g>
+      <g id="matplotlib.axis_10">
+        <g id="ytick_25">
+          <g id="line2d_425">
+            <g class="st214">
+              <path class="st15" d="M389.66,597.63h327.82"/>
+            </g>
+          </g>
+          <g id="line2d_426">
+            <path id="m36c6cbdf9024" data-name="m36c6cbdf90" class="st25" d="M389.66,597.63h-3.5"/>
+          </g>
+        </g>
+        <g id="ytick_26">
+          <g id="line2d_427">
+            <g class="st158">
+              <path class="st15" d="M389.66,549.63h327.82"/>
+            </g>
+          </g>
+          <g id="line2d_428">
+            <path id="m36c6cbdf9025" data-name="m36c6cbdf90" class="st25" d="M389.66,549.63h-3.5"/>
+          </g>
+        </g>
+        <g id="ytick_27">
+          <g id="line2d_429">
+            <g class="st156">
+              <path class="st15" d="M389.66,501.63h327.82"/>
+            </g>
+          </g>
+          <g id="line2d_430">
+            <path id="m36c6cbdf9026" data-name="m36c6cbdf90" class="st25" d="M389.66,501.63h-3.5"/>
+          </g>
+        </g>
+        <g id="ytick_28">
+          <g id="line2d_431">
+            <g class="st10">
+              <path class="st15" d="M389.66,453.62h327.82"/>
+            </g>
+          </g>
+          <g id="line2d_432">
+            <path id="m36c6cbdf9027" data-name="m36c6cbdf90" class="st25" d="M389.66,453.62h-3.5"/>
+          </g>
+        </g>
+        <g id="ytick_29">
+          <g id="line2d_433">
+            <g class="st168">
+              <path class="st15" d="M389.66,405.62h327.82"/>
+            </g>
+          </g>
+          <g id="line2d_434">
+            <path id="m36c6cbdf9028" data-name="m36c6cbdf90" class="st25" d="M389.66,405.62h-3.5"/>
+          </g>
+        </g>
+        <g id="ytick_30">
+          <g id="line2d_435">
+            <g class="st36">
+              <path class="st15" d="M389.66,357.62h327.82"/>
+            </g>
+          </g>
+          <g id="line2d_436">
+            <path id="m36c6cbdf9029" data-name="m36c6cbdf90" class="st25" d="M389.66,357.62h-3.5"/>
+          </g>
+        </g>
+      </g>
+      <g id="line2d_437">
+        <g class="st190">
+          <path class="st27" d="M404.56,596.85l15.69-.32,15.77-.46,15.56-.64,15.68-.9,15.65-1.26,15.7-1.76,15.71-2.44,15.69-3.38,15.71-4.62,15.69-6.25,15.68-8.33,15.68-11.02,15.69-14.22,15.68-18.15,15.69-22.68,15.68-27.68,15.68-33.09,15.68-38.46,15.69-43.57"/>
+        </g>
+      </g>
+      <g id="patch_23">
+        <path class="st29" d="M389.66,597.63v-244.81"/>
+      </g>
+      <g id="patch_24">
+        <path class="st29" d="M717.47,597.63v-244.81"/>
+      </g>
+      <g id="patch_25">
+        <path class="st29" d="M389.66,597.63h327.82"/>
+      </g>
+      <g id="patch_26">
+        <path class="st29" d="M389.66,352.82h327.82"/>
+      </g>
+      <g id="text_49">
+        <text class="st96" transform="translate(399.49 572.89)"><tspan x="0" y="0">n=38,985</tspan></text>
+        <text class="st96" transform="translate(399.49 581.35)"><tspan x="0" y="0">k=15,201</tspan></text>
+      </g>
+      <g id="text_50">
+        <g id="text_76">
+          <g class="st101">
+            <g class="st101">
+              <text class="st97" transform="translate(451.5 347.13)"><tspan x="0" y="0">Contaminated and Industrial Environments</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="axes_6">
+      <g id="patch_27">
+        <path class="st102" d="M737.82,597.63h327.82v-244.81h-327.82v244.81Z"/>
+      </g>
+      <g id="FillBetweenPolyCollection_6">
+        <g class="st127">
+          <path id="m11ae961ae6" class="st14" d="M752.72,589.47v.98l15.24-1.63,16.26-2.45,15.44-2.45,15.66-3.02,15.69-4.17,15.9-4.41,15.73-5.71,15.57-6.69,15.71-7.84,15.69-9.8,15.62-10.94,15.73-12.9,15.63-15.02,15.73-16.98,15.68-19.76,15.67-22.04,15.68-24.98,15.68-27.67,15.69-34.37h0l-15.69,27.43-15.68,27.27-15.68,24.41-15.67,22.45-15.68,19.1-15.73,18.04-15.63,15.43-15.73,13.71-15.62,11.76-15.69,10.12-15.71,8.65-15.57,7.18-15.73,6.2-15.9,5.06-15.69,4.25-15.66,3.59-15.44,2.78-16.26,2.45-15.24,1.96Z"/>
+        </g>
+      </g>
+      <g id="matplotlib.axis_11">
+        <g id="xtick_187">
+          <g id="line2d_438">
+            <g class="st117">
+              <path class="st15" d="M801.83,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_439">
+            <path id="m338aed16ed21" data-name="m338aed16ed" class="st25" d="M801.83,597.63v3.5"/>
+          </g>
+          <g id="text_51">
+            <g class="st101">
+              <text class="st99" transform="translate(793.98 613.94)"><tspan x="0" y="0">1</tspan></text>
+              <text class="st94" transform="translate(799.54 613.94)"><tspan x="0" y="0"> </tspan></text>
+              <text class="st99" transform="translate(799.54 613.94)"><tspan x="0" y="0">0</tspan></text>
+              <text class="st94" transform="translate(805.1 613.94)"><tspan x="0" y="0"> </tspan></text>
+              <text class="st92" transform="translate(805.28 606.97)"><tspan x="0" y="0">2</tspan></text>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_188">
+          <g id="line2d_440">
+            <g class="st61">
+              <path class="st15" d="M964.95,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_441">
+            <path id="m338aed16ed22" data-name="m338aed16ed" class="st25" d="M964.95,597.63v3.5"/>
+          </g>
+          <g id="text_52">
+            <g class="st101">
+              <text class="st99" transform="translate(957.1 613.94)"><tspan x="0" y="0">1</tspan></text>
+              <text class="st94" transform="translate(962.66 613.94)"><tspan x="0" y="0"> </tspan></text>
+              <text class="st99" transform="translate(962.66 613.94)"><tspan x="0" y="0">0</tspan></text>
+              <text class="st94" transform="translate(968.22 613.94)"><tspan x="0" y="0"> </tspan></text>
+              <text class="st92" transform="translate(968.39 606.97)"><tspan x="0" y="0">3</tspan></text>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_189">
+          <g id="line2d_442">
+            <g class="st216">
+              <path class="st15" d="M752.72,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_443">
+            <path id="m227c896385165" data-name="m227c896385" class="st24" d="M752.72,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_190">
+          <g id="line2d_444">
+            <g class="st243">
+              <path class="st15" d="M765.64,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_445">
+            <path id="m227c896385166" data-name="m227c896385" class="st24" d="M765.64,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_191">
+          <g id="line2d_446">
+            <g class="st239">
+              <path class="st15" d="M776.56,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_447">
+            <path id="m227c896385167" data-name="m227c896385" class="st24" d="M776.56,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_192">
+          <g id="line2d_448">
+            <g class="st57">
+              <path class="st15" d="M786.02,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_449">
+            <path id="m227c896385168" data-name="m227c896385" class="st24" d="M786.02,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_193">
+          <g id="line2d_450">
+            <g class="st280">
+              <path class="st15" d="M794.36,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_451">
+            <path id="m227c896385169" data-name="m227c896385" class="st24" d="M794.36,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_194">
+          <g id="line2d_452">
+            <g class="st47">
+              <path class="st15" d="M850.93,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_453">
+            <path id="m227c896385170" data-name="m227c896385" class="st24" d="M850.93,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_195">
+          <g id="line2d_454">
+            <g class="st258">
+              <path class="st15" d="M879.66,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_455">
+            <path id="m227c896385171" data-name="m227c896385" class="st24" d="M879.66,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_196">
+          <g id="line2d_456">
+            <g class="st125">
+              <path class="st15" d="M900.04,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_457">
+            <path id="m227c896385172" data-name="m227c896385" class="st24" d="M900.04,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_197">
+          <g id="line2d_458">
+            <g class="st261">
+              <path class="st15" d="M915.84,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_459">
+            <path id="m227c896385173" data-name="m227c896385" class="st24" d="M915.84,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_198">
+          <g id="line2d_460">
+            <g class="st76">
+              <path class="st15" d="M928.76,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_461">
+            <path id="m227c896385174" data-name="m227c896385" class="st24" d="M928.76,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_199">
+          <g id="line2d_462">
+            <g class="st208">
+              <path class="st15" d="M939.68,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_463">
+            <path id="m227c896385175" data-name="m227c896385" class="st24" d="M939.68,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_200">
+          <g id="line2d_464">
+            <g class="st54">
+              <path class="st15" d="M949.14,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_465">
+            <path id="m227c896385176" data-name="m227c896385" class="st24" d="M949.14,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_201">
+          <g id="line2d_466">
+            <g class="st49">
+              <path class="st15" d="M957.48,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_467">
+            <path id="m227c896385177" data-name="m227c896385" class="st24" d="M957.48,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_202">
+          <g id="line2d_468">
+            <g class="st191">
+              <path class="st15" d="M1014.05,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_469">
+            <path id="m227c896385178" data-name="m227c896385" class="st24" d="M1014.05,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_203">
+          <g id="line2d_470">
+            <g class="st250">
+              <path class="st15" d="M1042.77,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_471">
+            <path id="m227c896385179" data-name="m227c896385" class="st24" d="M1042.77,597.63v2"/>
+          </g>
+        </g>
+        <g id="xtick_204">
+          <g id="line2d_472">
+            <g class="st114">
+              <path class="st15" d="M1063.15,597.63v-244.81"/>
+            </g>
+          </g>
+          <g id="line2d_473">
+            <path id="m227c896385180" data-name="m227c896385" class="st24" d="M1063.15,597.63v2"/>
+          </g>
+        </g>
+        <g id="text_53">
+          <text class="st99" transform="translate(845.59 628.21)"><tspan x="0" y="0">Sample size (sequences)</tspan></text>
+        </g>
+      </g>
+      <g id="matplotlib.axis_12">
+        <g id="ytick_31">
+          <g id="line2d_474">
+            <g class="st224">
+              <path class="st15" d="M737.82,597.63h327.82"/>
+            </g>
+          </g>
+          <g id="line2d_475">
+            <path id="m36c6cbdf9030" data-name="m36c6cbdf90" class="st25" d="M737.82,597.63h-3.5"/>
+          </g>
+        </g>
+        <g id="ytick_32">
+          <g id="line2d_476">
+            <g class="st269">
+              <path class="st15" d="M737.82,549.63h327.82"/>
+            </g>
+          </g>
+          <g id="line2d_477">
+            <path id="m36c6cbdf9031" data-name="m36c6cbdf90" class="st25" d="M737.82,549.63h-3.5"/>
+          </g>
+        </g>
+        <g id="ytick_33">
+          <g id="line2d_478">
+            <g class="st200">
+              <path class="st15" d="M737.82,501.63h327.82"/>
+            </g>
+          </g>
+          <g id="line2d_479">
+            <path id="m36c6cbdf9032" data-name="m36c6cbdf90" class="st25" d="M737.82,501.63h-3.5"/>
+          </g>
+        </g>
+        <g id="ytick_34">
+          <g id="line2d_480">
+            <g class="st132">
+              <path class="st15" d="M737.82,453.62h327.82"/>
+            </g>
+          </g>
+          <g id="line2d_481">
+            <path id="m36c6cbdf9033" data-name="m36c6cbdf90" class="st25" d="M737.82,453.62h-3.5"/>
+          </g>
+        </g>
+        <g id="ytick_35">
+          <g id="line2d_482">
+            <g class="st66">
+              <path class="st15" d="M737.82,405.62h327.82"/>
+            </g>
+          </g>
+          <g id="line2d_483">
+            <path id="m36c6cbdf9034" data-name="m36c6cbdf90" class="st25" d="M737.82,405.62h-3.5"/>
+          </g>
+        </g>
+        <g id="ytick_36">
+          <g id="line2d_484">
+            <g class="st184">
+              <path class="st15" d="M737.82,357.62h327.82"/>
+            </g>
+          </g>
+          <g id="line2d_485">
+            <path id="m36c6cbdf9035" data-name="m36c6cbdf90" class="st25" d="M737.82,357.62h-3.5"/>
+          </g>
+        </g>
+      </g>
+      <g id="line2d_486">
+        <g class="st112">
+          <path class="st20" d="M752.72,589.85l15.24-1.78,16.26-2.31,15.44-2.72,15.66-3.31,15.69-4.05,15.9-4.94,15.73-5.83,15.57-7.01,15.71-8.2,15.69-9.91,15.62-11.34,15.73-13.19,15.63-15.38,15.73-17.36,15.68-19.71,15.67-22.19,15.68-24.8,15.68-27.57,15.69-30.64"/>
+        </g>
+      </g>
+      <g id="patch_28">
+        <path class="st29" d="M737.82,597.63v-244.81"/>
+      </g>
+      <g id="patch_29">
+        <path class="st29" d="M1065.64,597.63v-244.81"/>
+      </g>
+      <g id="patch_30">
+        <path class="st29" d="M737.82,597.63h327.82"/>
+      </g>
+      <g id="patch_31">
+        <path class="st29" d="M737.82,352.82h327.82"/>
+      </g>
+      <g id="text_54">
+        <text class="st96" transform="translate(747.66 572.89)"><tspan x="0" y="0">n=3,357</tspan></text>
+        <text class="st96" transform="translate(747.66 581.35)"><tspan x="0" y="0">k=1,470</tspan></text>
+      </g>
+      <g id="text_55">
+        <text class="st31" transform="translate(865.35 344.82)"><tspan x="0" y="0">Mixed And Lab</tspan></text>
+      </g>
+    </g>
+    <g id="text_56">
+      <text class="st91" transform="translate(377.27 18.65)"><tspan x="0" y="0">Accumulation curves of each main ecosystem</tspan></text>
+    </g>
+  </g>
+</svg>

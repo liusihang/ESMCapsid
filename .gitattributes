@@ -1,0 +1,5 @@
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.pdf binary
+Figure_data/** whitespace=-trailing-space

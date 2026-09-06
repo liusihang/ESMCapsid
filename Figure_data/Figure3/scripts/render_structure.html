@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Protein Structure Render</title>
+  <script src="https://cdn.jsdelivr.net/npm/ngl@2.0.0-dev.39/dist/ngl.js"></script>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+      background: #ffffff;
+      overflow: hidden;
+      font-family: Arial, sans-serif;
+    }
+
+    #viewport {
+      width: 2200px;
+      height: 2200px;
+      margin: 0;
+      background: #ffffff;
+    }
+  </style>
+</head>
+<body>
+  <div id="viewport"></div>
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const structurePath = params.get("file");
+    const backgroundColor = params.get("background") || "white";
+    const colorScheme = params.get("color") || "residueindex";
+    const clipNear = Number(params.get("clipNear") || 0);
+    const clipFar = Number(params.get("clipFar") || 100);
+    const quality = params.get("quality") || "high";
+    const scale = Number(params.get("scale") || 0.18);
+
+    if (!structurePath) {
+      document.body.innerHTML = "<pre>Missing ?file= parameter</pre>";
+      window.renderStatus = { ok: false, reason: "missing-file" };
+      throw new Error("Missing ?file= parameter");
+    }
+
+    const stage = new NGL.Stage("viewport", {
+      backgroundColor,
+      quality,
+      clipNear,
+      clipFar,
+      cameraType: "orthographic",
+      workerDefault: false
+    });
+
+    window.stage = stage;
+    window.renderStatus = { ok: false, reason: "loading" };
+
+    async function renderStructure() {
+      const component = await stage.loadFile(structurePath, { defaultRepresentation: false });
+      component.addRepresentation("cartoon", {
+        colorScheme,
+        aspectRatio: 5.0,
+        scale: 1.2,
+        subdiv: 12,
+        radialSegments: 16,
+        tension: 0.5
+      });
+
+      stage.setParameters({
+        clipNear,
+        clipFar,
+        cameraType: "orthographic",
+        sampleLevel: 2
+      });
+
+      component.autoView();
+      stage.viewerControls.zoom(scale);
+
+      await new Promise((resolve) => setTimeout(resolve, 1800));
+      stage.viewer.requestRender();
+      await new Promise((resolve) => setTimeout(resolve, 600));
+
+      window.renderStatus = {
+        ok: true,
+        file: structurePath,
+        scheme: colorScheme,
+        size: stage.viewer.container.getBoundingClientRect()
+      };
+    }
+
+    renderStructure().catch((error) => {
+      console.error(error);
+      window.renderStatus = {
+        ok: false,
+        reason: error && error.message ? error.message : String(error)
+      };
+    });
+  </script>
+</body>
+</html>

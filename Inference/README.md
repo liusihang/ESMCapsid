@@ -332,5 +332,4 @@ Third-party code and dependencies retain their own licenses.
 Encoder weights and prediction heads are distributed separately on Hugging
 Face and remain subject to their model repositories' `LICENSE` and
 `NOTICE.txt`. These notices include the EvolutionaryScale Cambrian
-Non-Commercial License Agreement. The MIT code license does not relicense
-the weights, authorize commercial model use, or remove upstream restrictions.
+Non-Commercial License Agreement.

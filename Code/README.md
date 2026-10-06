@@ -1,6 +1,6 @@
-# ViCapsid code archive
+# ESMCapsid code archive
 
-This archive contains the Python, Shell and Slurm source code for the ViCapsid ESMCapsid workflow. Runtime models, training data, benchmark tables, structure files and reference databases are supplied separately through the paths listed in `05_inference_pipeline_code/fasta_pipeline_capsid_prediction/config/reference_bundle.json` and the input arguments of each script.
+This archive contains the Python, Shell and Slurm source code for the ESMCapsid workflow. Runtime models, training data, benchmark tables, structure files and reference databases are supplied separately through the paths listed in `05_inference_pipeline_code/fasta_pipeline_capsid_prediction/config/reference_bundle.json` and the input arguments of each script.
 
 ## Directory map
 
@@ -13,7 +13,7 @@ This archive contains the Python, Shell and Slurm source code for the ViCapsid E
 | `05_inference_pipeline_code/` | Stage-1 screening, Stage-2 representation extraction, classifier prediction and the FASTA inference pipeline. |
 | `experiment_tools/` | Shared training, split, threshold and linear-probe helpers. |
 | `scripts/` | Shared structure-analysis utilities and repository-relative path helpers. |
-| `environments/` | Package inventories for the ESM, FAISS/RAPIDS and integrated ViCapsid environments. |
+| `environments/` | Package inventories for the ESM, FAISS/RAPIDS and integrated ESMCapsid workflow environments. |
 
 ## `01_training_code/`
 

@@ -1,9 +1,10 @@
 # ESMCapsid
 
-This repository contains the ESMCapsid code and figure data supporting the ViCapsid study.
+This repository contains the ESMCapsid code, inference toolkit, and figure data supporting the ESMCapsid study.
 
 | Directory | Contents |
 |---|---|
+| [`Inference/`](Inference/) | Installable ESM-only toolkit for capsid screening, sequence embeddings, and property prediction. |
 | [`Code/`](Code/) | Training, evaluation, SAE/FAISS, structure-analysis, and inference-pipeline code. |
 | [`Figure_data/`](Figure_data/) | Panel-level plotting scripts, plotting inputs, and final figure files. |
 

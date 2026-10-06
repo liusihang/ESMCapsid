@@ -2,6 +2,11 @@
 
 This archive contains the Python, Shell and Slurm source code for the ESMCapsid workflow. Runtime models, training data, benchmark tables, structure files and reference databases are supplied separately through the paths listed in `05_inference_pipeline_code/fasta_pipeline_capsid_prediction/config/reference_bundle.json` and the input arguments of each script.
 
+The original research code is released under the [MIT License](../LICENSE).
+Third-party code and dependencies retain their own licenses. Model weights
+and prediction heads are separate assets governed by the `LICENSE` and
+`NOTICE.txt` in their Hugging Face repositories, not by this code license.
+
 ## Directory map
 
 | Directory | Responsibility |

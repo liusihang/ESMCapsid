@@ -72,7 +72,8 @@ models/
     ├── model.safetensors
     ├── modeling_esm_plusplus.py
     ├── tokenizer.json
-    └── tokenizer_config.json
+    ├── tokenizer_config.json
+    └── heads/property_heads/       # Optional; downloaded separately below
 ```
 
 Pass the **parent directory** to `--models`, not an individual model directory. Preserve the complete release files, including the classifier checkpoints and normalization arrays; copying only the encoder weights is insufficient.
@@ -88,10 +89,35 @@ The models contain custom Transformers code and are loaded with `trust_remote_co
 
 ### Optional property heads
 
-**The public ESMCapsid-C repository does not include property heads.** Property prediction requires a separately supplied head directory:
+The nine pretrained property heads are publicly available in
+[`Shuofang127/ESMCapsid-C/heads/property_heads`](https://huggingface.co/Shuofang127/ESMCapsid-C/tree/main/heads/property_heads).
+Property prediction is optional and requires this local head directory.
+Download only the heads and model-license notices, without downloading
+the encoder weights:
+
+```python
+from huggingface_hub import snapshot_download
+
+snapshot_download(
+    repo_id="Shuofang127/ESMCapsid-C",
+    revision="cc3f4c30b05f4f98b53be8002a7af5cf1fa929b6",
+    allow_patterns=["heads/property_heads/*", "LICENSE", "NOTICE.txt"],
+    local_dir="models/ESMCapsid-C",
+)
+```
+
+This setup step requires network access. It can be run on a machine that
+already has the C encoder; only the selected head files and license notices
+are retrieved. Pass `models/ESMCapsid-C/heads/property_heads` to
+`--property-heads` afterward. For an offline machine, prepare the same files
+in advance. Older cached encoder releases do not include these newly
+published heads; the encoder snapshots remain pinned separately in
+[releases.py](src/esmcapsid/releases.py).
+
+The head directory has the following layout:
 
 ```text
-property_heads/
+models/ESMCapsid-C/heads/property_heads/
 ├── realm/
 │   ├── config.json
 │   └── best_model.pth
@@ -104,12 +130,15 @@ property_heads/
 └── ...
 ```
 
-The validated head package contains nine tasks:
+The released head package contains nine tasks:
 
 - Taxonomic labels: `realm`, `kingdom`, `phylum`, `class`, `order`, and `family`.
 - Other properties: `genome_label`, `host_group`, and `fold_label`.
 
-Each head uses its existing class mapping and prediction threshold. The toolkit computes the matching input representation internally.
+Each head includes its original checkpoint, class mapping, and prediction
+threshold in `best_model.pth` and `config.json`. The toolkit computes the
+matching input representation internally. The head weights are model
+assets subject to the Hugging Face license terms, not the MIT code license.
 
 ## Quick start
 
@@ -145,7 +174,7 @@ S screens all valid inputs; C processes only the candidates. C embeddings are sa
 esmcapsid predict \
   --input proteins.faa \
   --models models --offline \
-  --property-heads /path/to/property_heads \
+  --property-heads models/ESMCapsid-C/heads/property_heads \
   --out candidate_properties \
   --device cpu
 ```
@@ -158,7 +187,7 @@ This combines screening, C encoding, and property prediction in one workflow. Sc
 esmcapsid annotate \
   --input capsids.faa \
   --models models --offline \
-  --property-heads /path/to/property_heads \
+  --property-heads models/ESMCapsid-C/heads/property_heads \
   --out annotations \
   --device cpu
 ```
@@ -296,6 +325,12 @@ This inference toolkit does not currently have a separate software DOI. Record i
 
 ## License
 
-Model weights are governed by the `LICENSE` and `NOTICE.txt` in their respective repositories. This toolkit does not change or relicense those weights.
+This toolkit is released under the [MIT License](LICENSE), also included in
+the installed package. The original research code uses the same code license.
+Third-party code and dependencies retain their own licenses.
 
-A separate code `LICENSE` has not yet been specified for this toolkit. Do not assume that the model licenses also license this toolkit, or that the research code, base models, and this toolkit share the same license.
+Encoder weights and prediction heads are distributed separately on Hugging
+Face and remain subject to their model repositories' `LICENSE` and
+`NOTICE.txt`. These notices include the EvolutionaryScale Cambrian
+Non-Commercial License Agreement. The MIT code license does not relicense
+the weights, authorize commercial model use, or remove upstream restrictions.

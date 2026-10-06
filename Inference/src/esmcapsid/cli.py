@@ -15,7 +15,7 @@ def parser():
     for name, description in [
         ("predict", "Screen proteins with S, then encode candidates with C"),
         ("embed", "Encode supplied proteins with public C (no screening or property claims)"),
-        ("annotate", "Run legacy property heads supplied separately on candidate proteins"),
+        ("annotate", "Run the released property heads on supplied candidate proteins"),
     ]:
         command = commands.add_parser(name, help=description, description=description)
         command.add_argument("--input", type=Path, required=True, help="Protein FASTA/FASTA.gz or CSV/CSV.gz")
@@ -32,7 +32,7 @@ def parser():
             command.add_argument("--save-embeddings", action="store_true", help="Also save S embeddings; C vectors are always saved")
             command.add_argument("--screen-max-tokens", type=int, default=1022)
         if name != "embed":
-            command.add_argument("--property-heads", type=Path, help="Optional legacy layer-33 property-head directory (not on public HF)")
+            command.add_argument("--property-heads", type=Path, help="Local property-head directory (released on HF under ESMCapsid-C/heads/property_heads)")
     return result
 
 

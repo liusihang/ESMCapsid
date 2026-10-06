@@ -154,7 +154,7 @@ def test_existing_output_is_not_overwritten(tmp_path):
 
 def test_annotate_without_heads_is_rejected_before_any_output(tmp_path):
     output = tmp_path / "run"
-    with pytest.raises(ValueError, match="no property heads"):
+    with pytest.raises(ValueError, match="annotate requires --property-heads"):
         execute(RunOptions(input_file(tmp_path), output, mode="annotate", device="cpu"))
     assert not output.exists()
 

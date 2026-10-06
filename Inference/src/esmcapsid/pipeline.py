@@ -87,8 +87,9 @@ def run(options: RunOptions, *, encoder_factory=Encoder, screening_factory=Scree
     if options.screen_only and options.property_heads:
         raise ValueError("--screen-only cannot be combined with --property-heads")
     if options.mode == "annotate" and options.property_heads is None:
-        raise ValueError("The public C repository has no property heads. Supply --property-heads "
-                         "for annotate, or use embed for the public representation.")
+        raise ValueError("annotate requires --property-heads pointing to a local head directory. "
+                         "The nine public heads are available from Shuofang127/ESMCapsid-C "
+                         "under heads/property_heads; use embed for representations without heads.")
     if options.mode == "embed" and options.property_heads:
         raise ValueError("Use annotate, not embed, to run property heads")
     records = read_sequences(options.input, options.sequence_column, options.id_column)
